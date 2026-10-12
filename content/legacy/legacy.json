@@ -1,0 +1,2932 @@
+{
+ "services": [
+  {
+   "slug": "alci-siva",
+   "title": "Alçı ve Sıva Uygulamaları",
+   "metaTitle": "Alçı ve Sıva Uygulamaları",
+   "metaDescription": "Pürüzsüz yüzeyler için hassas alçı ve sıva işçiliği. Duvar ve tavan sıvası, saten alçı, alçıpan bölme ve dekoratif alçı işleri.",
+   "tagline": "Pürüzsüz yüzeyler için hassas alçı ve sıva işçiliği.",
+   "overview": "Duvar ve tavan sıvası, saten alçı, alçıpan bölme ve dekoratif alçı işleri.",
+   "intro": "Ocean İnşaat alçı ve sıva işlerinde tüm yüzeyler standartlara uygun düzlemsellik ve terazide tamamlanır.",
+   "scope": [
+    "Kaba sıva",
+    "Saten alçı",
+    "Alçıpan bölme ve tavan",
+    "Dekoratif alçı işleri"
+   ],
+   "steps": [
+    {
+     "title": "Hazırlık",
+     "desc": "Yüzey temizliği ve astar uygulanır."
+    },
+    {
+     "title": "Kaba İş",
+     "desc": "Kaba sıva veya alçıpan bölmeler tamamlanır."
+    },
+    {
+     "title": "İnce İş",
+     "desc": "Saten alçı ile boyanacak yüzey elde edilir."
+    }
+   ],
+   "materials": [
+    "Alçı",
+    "Kireçli sıva",
+    "Alçıpan levha",
+    "Metal karkas profiller"
+   ],
+   "benefits": [
+    "Pürüzsüz boya yüzeyi",
+    "Isı ve ses yalıtımına katkı",
+    "Estetik dekoratif detaylar"
+   ],
+   "projectTypes": [
+    "Konut",
+    "Ofis",
+    "Ticari yapılar"
+   ],
+   "faqs": [
+    {
+     "q": "Sıva sonrası ne kadar süre beklenmeli?",
+     "a": "Sıva kalınlığına göre 7–21 gün arası bekleme süresi önerilir."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "altyapi",
+   "title": "Altyapı Çalışmaları",
+   "metaTitle": "Altyapı Çalışmaları",
+   "metaDescription": "Yapının görünmeyen ama en önemli parçası. Yol, kanalizasyon, içme suyu, elektrik ve iletişim altyapı çalışmaları.",
+   "tagline": "Yapının görünmeyen ama en önemli parçası.",
+   "overview": "Yol, kanalizasyon, içme suyu, elektrik ve iletişim altyapı çalışmaları.",
+   "intro": "Ocean İnşaat altyapı çalışmalarında bölgesel belediye ve kurum standartlarına uygun kanal, boru ve kablolama altyapıları hazırlar.",
+   "scope": [
+    "Yol ve kaldırım",
+    "Yağmur suyu drenajı",
+    "İçme suyu ve kanalizasyon",
+    "Elektrik ve iletişim kanalları"
+   ],
+   "steps": [
+    {
+     "title": "Proje",
+     "desc": "Altyapı projeleri hazırlanır."
+    },
+    {
+     "title": "Kazı",
+     "desc": "Hatların güzergâhları açılır."
+    },
+    {
+     "title": "İmalat",
+     "desc": "Boru ve kablolar döşenir."
+    },
+    {
+     "title": "Kaplama",
+     "desc": "Yüzey kaplaması yapılır."
+    }
+   ],
+   "materials": [
+    "HDPE boru",
+    "Beton bordür",
+    "Asfalt",
+    "Elektrik kanal boruları"
+   ],
+   "benefits": [
+    "Uzun ömürlü altyapı",
+    "Bakım maliyetlerinin düşmesi",
+    "Kentsel entegrasyon"
+   ],
+   "projectTypes": [
+    "Siteler",
+    "Endüstriyel bölgeler",
+    "Kamu projeleri"
+   ],
+   "faqs": [
+    {
+     "q": "Site içi altyapıda dikkat edilmesi gereken en önemli konu nedir?",
+     "a": "Yağmur ve pis su drenajının doğru planlanması ile uzun vadeli sorunların önüne geçilir."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "anahtar-teslim-insaat",
+   "title": "Anahtar Teslim İnşaat",
+   "metaTitle": "Anahtar Teslim İnşaat",
+   "metaDescription": "Kavramdan teslimata tek bir çözüm ortağı. Konsept, projelendirme, ruhsat, kaba yapı, ince işler ve teslim sürecinin tek çatı altında yönetildiği eksiksiz bir inşaat hizmetidir.",
+   "tagline": "Kavramdan teslimata tek bir çözüm ortağı.",
+   "overview": "Konsept, projelendirme, ruhsat, kaba yapı, ince işler ve teslim sürecinin tek çatı altında yönetildiği eksiksiz bir inşaat hizmetidir.",
+   "intro": "Ocean İnşaat anahtar teslim projelerde arsanın veya mevcut yapının incelenmesinden başlayarak fizibilite, mimari–statik–mekanik–elektrik projeleri, ruhsat, kaba yapı, ince işler, cephe, peyzaj ve teslim aşamalarını tek bir sözleşme kapsamında yürütür. Bütçe, süre ve kalite üçlüsü baştan tanımlanır ve süreç boyunca düzenli raporlama ile şeffaflık sağlanır.",
+   "scope": [
+    "Arsa etüdü ve fizibilite raporu",
+    "Mimari, statik, mekanik ve elektrik projeleri",
+    "Ruhsat, iskân ve resmi süreç yönetimi",
+    "Hafriyat ve kaba yapı imalatı",
+    "İnce işler (sıva, boya, seramik, parke, kapı, dolap)",
+    "Dış cephe, çatı ve yalıtım uygulamaları",
+    "Elektrik ve mekanik tesisat",
+    "Peyzaj ve çevre düzenlemesi",
+    "Anahtar teslimi ve satış sonrası destek"
+   ],
+   "steps": [
+    {
+     "title": "Ön Analiz",
+     "desc": "Arsa, imar, ihtiyaç programı ve bütçe çerçevesi belirlenir."
+    },
+    {
+     "title": "Projelendirme",
+     "desc": "Mimari, statik, mekanik ve elektrik projeler koordineli hazırlanır."
+    },
+    {
+     "title": "Sözleşme",
+     "desc": "İş programı, ödeme planı, teknik şartname ve süre sözleşmede netleştirilir."
+    },
+    {
+     "title": "Ruhsat",
+     "desc": "Belediye onayları ve yasal izinler tamamlanır."
+    },
+    {
+     "title": "Kaba Yapı",
+     "desc": "Hafriyat, temel, betonarme veya çelik iskelet imalatları yürütülür."
+    },
+    {
+     "title": "İnce İşler",
+     "desc": "Sıva, şap, seramik, boya, dolap, kapı ve tesisat işlemleri tamamlanır."
+    },
+    {
+     "title": "Cephe ve Yalıtım",
+     "desc": "Dış cephe kaplama, mantolama ve su yalıtımı uygulanır."
+    },
+    {
+     "title": "Test ve Kontrol",
+     "desc": "Yapı, tesisat ve güvenlik testleri yapılır; eksikler kapatılır."
+    },
+    {
+     "title": "Teslim",
+     "desc": "İskân sonrası anahtar teslimi ve garantili destek başlar."
+    }
+   ],
+   "materials": [
+    "C30/C35 hazır beton",
+    "B500C nervürlü çelik",
+    "TS 825 uyumlu yalıtım levhaları",
+    "A2 sınıfı yangına dayanımlı cephe malzemeleri",
+    "Enerji sınıfı yüksek doğrama sistemleri"
+   ],
+   "benefits": [
+    "Tek muhatap, tek sözleşme, tek sorumluluk",
+    "Sabit süre ve sabit bütçe planlaması",
+    "Detaylı iş programı ile öngörülebilir teslim",
+    "Deneyimli teknik ekiple sahada sürekli denetim",
+    "Malzeme temini ve tedarik risklerinin firma tarafından üstlenilmesi"
+   ],
+   "projectTypes": [
+    "Konut ve apartman projeleri",
+    "Villa ve müstakil yapılar",
+    "Ticari yapılar ve ofis binaları",
+    "Fabrika ve endüstriyel tesisler",
+    "Otel, mağaza ve karma kullanımlı yapılar"
+   ],
+   "faqs": [
+    {
+     "q": "Anahtar teslim inşaat neleri kapsar?",
+     "a": "Projelendirmeden ruhsata, kaba yapıdan ince işlere ve teslime kadar tüm süreç tek sözleşme altında yürütülür."
+    },
+    {
+     "q": "Süreç ne kadar sürer?",
+     "a": "Proje büyüklüğüne göre değişmekle birlikte tek yapılı orta ölçekli bir konut projesi ortalama 12–20 ay içerisinde teslim edilir."
+    },
+    {
+     "q": "Ödeme planı nasıl yapılır?",
+     "a": "İş programına bağlı hakediş esaslı bir ödeme planı ile ilerlenir; her ödeme tamamlanan iş kaleminin denetimi sonrasında yapılır."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "betonarme-yapilar",
+   "title": "Betonarme Yapılar",
+   "metaTitle": "Betonarme Yapılar",
+   "metaDescription": "Türkiye’nin en yaygın taşıyıcı sistemi ile güvenli yapılar. Yönetmeliklere uygun betonarme taşıyıcı sistemli konut, ticari ve endüstriyel yapılar.",
+   "tagline": "Türkiye’nin en yaygın taşıyıcı sistemi ile güvenli yapılar.",
+   "overview": "Yönetmeliklere uygun betonarme taşıyıcı sistemli konut, ticari ve endüstriyel yapılar.",
+   "intro": "Ocean İnşaat betonarme yapı üretiminde beton sınıfı, demir sınıfı ve donatı detayları uygulama projesine göre denetlenir.",
+   "scope": [
+    "Betonarme projelendirme",
+    "Kalıp ve donatı işleri",
+    "Beton dökümü",
+    "Kür ve kalite testleri"
+   ],
+   "steps": [
+    {
+     "title": "Proje",
+     "desc": "Statik proje ve iş programı hazırlanır."
+    },
+    {
+     "title": "Kalıp",
+     "desc": "Kalıp sistemleri kurulur."
+    },
+    {
+     "title": "Donatı",
+     "desc": "Demir işleri projeye uygun yerleştirilir."
+    },
+    {
+     "title": "Beton",
+     "desc": "Onaylı hazır beton dökülür ve kür yapılır."
+    }
+   ],
+   "materials": [
+    "C30/37 hazır beton",
+    "B500C nervürlü demir",
+    "Kalıp yağı",
+    "Su geçirmez katkılar"
+   ],
+   "benefits": [
+    "Yerel yönetmeliklere yüksek uyum",
+    "Ekonomik ve dayanıklı taşıyıcı sistem",
+    "Kolay onarım ve güçlendirme imkânı",
+    "Uzun ömürlü yapı"
+   ],
+   "projectTypes": [
+    "Konut",
+    "Ticari yapı",
+    "Kamu binası"
+   ],
+   "faqs": [
+    {
+     "q": "Beton sınıfı neye göre seçilir?",
+     "a": "Yapının statik projesine, bölgenin deprem yükü ve zemin sınıfına göre belirlenir."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "bina-guclendirme",
+   "title": "Bina Güçlendirme",
+   "metaTitle": "Bina Güçlendirme",
+   "metaDescription": "Depreme karşı yapınızı bilimsel yöntemlerle güçlendirin. Deprem yönetmeliğine göre yapılan performans analizi ve statik güçlendirme uygulamaları.",
+   "tagline": "Depreme karşı yapınızı bilimsel yöntemlerle güçlendirin.",
+   "overview": "Deprem yönetmeliğine göre yapılan performans analizi ve statik güçlendirme uygulamaları.",
+   "intro": "Ocean İnşaat bina güçlendirme sürecinde önce mimari–statik projeler incelenir, karotla dayanım testleri yapılır ve TBDY 2018 yönetmeliğine göre performans analizi tamamlanır.",
+   "scope": [
+    "Deprem performans analizi",
+    "Karot ve zemin testleri",
+    "Perde ekleme",
+    "Kolon mantolama",
+    "Karbon fiber uygulaması",
+    "Çelik kuşaklama"
+   ],
+   "steps": [
+    {
+     "title": "Röleve",
+     "desc": "Yapının mimari ve statik ölçümü çıkarılır."
+    },
+    {
+     "title": "Analiz",
+     "desc": "Performans analizi ve dayanım testleri yapılır."
+    },
+    {
+     "title": "Proje",
+     "desc": "Güçlendirme projesi hazırlanır."
+    },
+    {
+     "title": "Uygulama",
+     "desc": "Onaylı yöntemlerle güçlendirme yapılır."
+    },
+    {
+     "title": "Rapor",
+     "desc": "Onaylı güçlendirme raporu teslim edilir."
+    }
+   ],
+   "materials": [
+    "Yüksek dayanımlı hazır beton",
+    "Nervürlü demir",
+    "Karbon fiber şeritler",
+    "Çelik plaka ve profil",
+    "Epoksi enjeksiyon"
+   ],
+   "benefits": [
+    "Yapı ömrünün uzaması",
+    "Deprem risklerinin azaltılması",
+    "Bina değerinin artması",
+    "Yeniden inşaya göre daha ekonomik çözüm"
+   ],
+   "projectTypes": [
+    "Riskli bulunan konutlar",
+    "Kamu binaları",
+    "Okul ve hastaneler",
+    "Ticari yapılar"
+   ],
+   "faqs": [
+    {
+     "q": "Güçlendirme mi yıkıp yeniden yapmak mı daha ekonomik?",
+     "a": "Yapının yaşı, taşıyıcı sistemi ve maliyet analizine göre belirlenir; performans analizi sonucu yönlendirir."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "catt-tadilati",
+   "title": "Çatı Tadilatı",
+   "metaTitle": "Çatı Tadilatı",
+   "metaDescription": "Yaşlı çatınızı su geçirmez bir yapıya dönüştürün. Mevcut çatı örtüsünün sökülmesi, yalıtımın yenilenmesi ve modern kaplama sistemleri ile yeniden inşası.",
+   "tagline": "Yaşlı çatınızı su geçirmez bir yapıya dönüştürün.",
+   "overview": "Mevcut çatı örtüsünün sökülmesi, yalıtımın yenilenmesi ve modern kaplama sistemleri ile yeniden inşası.",
+   "intro": "Ocean İnşaat çatı tadilatı projelerinde çatı arasındaki nem, küf ve akıntı sorunları detaylı olarak analiz edilir.",
+   "scope": [
+    "Mevcut çatı analizi",
+    "Kiremit sökümü ve tesviye",
+    "Yalıtım yenilenmesi",
+    "Karkas güçlendirme",
+    "Yeni kaplama uygulaması",
+    "Oluk ve iniş yenilemesi"
+   ],
+   "steps": [
+    {
+     "title": "Kontrol",
+     "desc": "Çatının detaylı incelemesi yapılır."
+    },
+    {
+     "title": "Söküm",
+     "desc": "Eski kaplama ve zarar görmüş elemanlar sökülür."
+    },
+    {
+     "title": "Onarım",
+     "desc": "Karkas onarımı ve yalıtım katmanları yenilenir."
+    },
+    {
+     "title": "Yeniden Yapım",
+     "desc": "Kaplama ve oluk sistemi tamamlanır."
+    }
+   ],
+   "materials": [
+    "Kiremit",
+    "OSB",
+    "Membran",
+    "Alüminyum oluk",
+    "Cam yünü"
+   ],
+   "benefits": [
+    "Yağış sızıntılarının kalıcı çözümü",
+    "Isı yalıtımının iyileşmesi",
+    "Görsel yenilenme",
+    "Bakım maliyetlerinin düşmesi"
+   ],
+   "projectTypes": [
+    "Eski apartmanlar",
+    "Villalar",
+    "Tarihi yapılar"
+   ],
+   "faqs": [
+    {
+     "q": "Çatı tadilatı sırasında bina kullanılabilir mi?",
+     "a": "Kaba iş dışında iç mekânlar büyük ölçüde kullanılabilir; ancak bazı gürültülü işlemler için kısa süreli kısıtlama gerekebilir."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "catt-yapimi",
+   "title": "Çatı Yapımı",
+   "metaTitle": "Çatı Yapımı",
+   "metaDescription": "Yağmur, kar ve rüzgâra karşı dayanıklı çatı sistemleri. Ahşap, çelik veya beton karkas üzerine kiremit, sandviç panel veya membran çözümleri ile üretilen çatı sistemleri.",
+   "tagline": "Yağmur, kar ve rüzgâra karşı dayanıklı çatı sistemleri.",
+   "overview": "Ahşap, çelik veya beton karkas üzerine kiremit, sandviç panel veya membran çözümleri ile üretilen çatı sistemleri.",
+   "intro": "Ocean İnşaat çatı projelerinde yağış rejimi, rüzgâr yükü ve estetik tercihler doğrultusunda uygun eğim ve malzeme seçimi yapar.",
+   "scope": [
+    "Ahşap veya çelik makas imalatı",
+    "Kiremit veya panel kaplama",
+    "Çatı yalıtımı",
+    "Yağmur oluğu ve inişleri"
+   ],
+   "steps": [
+    {
+     "title": "Tasarım",
+     "desc": "Eğim, malzeme ve statik hesap yapılır."
+    },
+    {
+     "title": "İmalat",
+     "desc": "Karkas ve makaslar imal edilir."
+    },
+    {
+     "title": "Uygulama",
+     "desc": "Kaplama, yalıtım ve oluk sistemleri uygulanır."
+    }
+   ],
+   "materials": [
+    "Kiremit",
+    "Bitümlü shingle",
+    "Sandviç panel",
+    "Metal çatı örtüsü",
+    "EPDM veya TPO membran"
+   ],
+   "benefits": [
+    "Uzun ömürlü ve bakımı kolay sistemler",
+    "Yağış ve rüzgâr yüklerine dayanıklılık",
+    "Enerji verimliliği ile uyumlu yalıtım",
+    "Estetik tasarım seçenekleri"
+   ],
+   "projectTypes": [
+    "Konut",
+    "Villa",
+    "Fabrika",
+    "Ticari yapı"
+   ],
+   "faqs": [
+    {
+     "q": "Hangi çatı türü tercih edilmeli?",
+     "a": "Bölgenin iklim koşulları, yapının kullanım amacı ve bütçe birlikte değerlendirilerek karar verilir."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "celik-konstruksiyon",
+   "title": "Çelik Konstrüksiyon",
+   "metaTitle": "Çelik Konstrüksiyon",
+   "metaDescription": "Hızlı montaj ve büyük açıklıklara uygun çelik yapılar. Fabrika, depo, ticari yapı ve prefabrik çözümler için çelik konstrüksiyon üretim ve montajı.",
+   "tagline": "Hızlı montaj ve büyük açıklıklara uygun çelik yapılar.",
+   "overview": "Fabrika, depo, ticari yapı ve prefabrik çözümler için çelik konstrüksiyon üretim ve montajı.",
+   "intro": "Ocean İnşaat çelik konstrüksiyon projelerinde fabrika üretimli hazır profillerle sahada hızlı montaj gerçekleştirilir.",
+   "scope": [
+    "Çelik statik projelendirme",
+    "Profil üretim ve boyama",
+    "Şantiye montajı",
+    "Kaynak ve bağlantı testleri"
+   ],
+   "steps": [
+    {
+     "title": "Proje",
+     "desc": "Çelik statik projeler hazırlanır."
+    },
+    {
+     "title": "Üretim",
+     "desc": "Profil ve levha üretimi yapılır."
+    },
+    {
+     "title": "Boyama",
+     "desc": "Yangın ve pas koruma boyaları uygulanır."
+    },
+    {
+     "title": "Montaj",
+     "desc": "Sahada hızlı montaj yapılır."
+    }
+   ],
+   "materials": [
+    "S275 / S355 çelik",
+    "Sandviç panel",
+    "Yangın koruyucu boya",
+    "Yüksek mukavemetli cıvata"
+   ],
+   "benefits": [
+    "Hızlı üretim ve montaj",
+    "Büyük açıklıklı iç mekânlar",
+    "Sökülebilir ve genişletilebilir yapı",
+    "Yönetmeliklere uygun tasarım"
+   ],
+   "projectTypes": [
+    "Fabrika",
+    "Depo",
+    "Ticari yapı",
+    "Katlı otopark"
+   ],
+   "faqs": [
+    {
+     "q": "Çelik yapılar deprem yönetmeliğine uygun mu?",
+     "a": "Doğru tasarlanmış çelik yapılar hem deprem yönetmeliğine hem de yangın güvenliğine uygundur."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "dis-cephe-kaplama",
+   "title": "Dış Cephe Kaplama",
+   "metaTitle": "Dış Cephe Kaplama",
+   "metaDescription": "Yapıya kimlik kazandıran modern cephe çözümleri. Kompozit, seramik, doğal taş, alüminyum ve cam kaplamalarla üretilen kalıcı ve estetik dış cephe uygulamaları.",
+   "tagline": "Yapıya kimlik kazandıran modern cephe çözümleri.",
+   "overview": "Kompozit, seramik, doğal taş, alüminyum ve cam kaplamalarla üretilen kalıcı ve estetik dış cephe uygulamaları.",
+   "intro": "Ocean İnşaat dış cephe kaplama projelerinde yapının cephe geometrisi, iklim koşulları, yalıtım gereksinimi ve estetik hedefler birlikte değerlendirilir.",
+   "scope": [
+    "Cephe konsept tasarımı",
+    "Statik ve rüzgar yükü analizleri",
+    "Alt taşıyıcı konstrüksiyon",
+    "Yalıtım katmanları",
+    "Kaplama uygulaması",
+    "Ek detayları ve derz sızdırmazlığı"
+   ],
+   "steps": [
+    {
+     "title": "Ölçüm",
+     "desc": "Cephe hassas şekilde 3B taranır veya ölçülür."
+    },
+    {
+     "title": "Tasarım",
+     "desc": "Kaplama modeli ve renk paleti belirlenir."
+    },
+    {
+     "title": "Konstrüksiyon",
+     "desc": "Alt taşıyıcı sistem yapıya sabitlenir."
+    },
+    {
+     "title": "Kaplama",
+     "desc": "Panel veya seramik plakalar uygulanır."
+    },
+    {
+     "title": "Detay",
+     "desc": "Ek yerleri, silikon ve yağmur derz detayları tamamlanır."
+    }
+   ],
+   "materials": [
+    "Alüminyum kompozit panel",
+    "Fiber çimento levha",
+    "Doğal taş ve porselen seramik",
+    "Cam giydirme sistemleri"
+   ],
+   "benefits": [
+    "Uzun ömürlü ve düşük bakımlı yüzey",
+    "Yalıtım performansında iyileşme",
+    "Yangına dayanıklı A2 sınıfı seçenekler",
+    "Estetik ve markalaşma imkânı"
+   ],
+   "projectTypes": [
+    "Ofis binaları",
+    "Konut siteleri",
+    "Otel ve AVM cepheleri",
+    "Kurumsal binalar"
+   ],
+   "faqs": [
+    {
+     "q": "Kompozit cephe yangın güvenliği açısından uygun mu?",
+     "a": "A2 sınıfı, yangına dayanıklı kompozit paneller ilgili yönetmeliklere uygundur ve tercih edilmektedir."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "dis-cephe-yenileme",
+   "title": "Dış Cephe Yenileme",
+   "metaTitle": "Dış Cephe Yenileme",
+   "metaDescription": "Yaşlanan cepheyi yeniden hayata geçirin. Eskimiş, çatlamış veya nem tutmuş cephelerin sökülerek yeniden yalıtımlı ve estetik bir yüzey ile giydirilmesi.",
+   "tagline": "Yaşlanan cepheyi yeniden hayata geçirin.",
+   "overview": "Eskimiş, çatlamış veya nem tutmuş cephelerin sökülerek yeniden yalıtımlı ve estetik bir yüzey ile giydirilmesi.",
+   "intro": "Ocean İnşaat cephe yenileme projelerinde mevcut yapının hasar tespiti, taşıyıcı sistem uygunluğu ve yalıtım eksiklikleri detaylı analiz edilir.",
+   "scope": [
+    "Mevcut cephenin analizi",
+    "Sıva onarımı ve nem kontrolü",
+    "Isı yalıtım katmanı",
+    "Dekoratif kaplama uygulaması",
+    "Cephe boya ve derz uygulamaları"
+   ],
+   "steps": [
+    {
+     "title": "Analiz",
+     "desc": "Cephedeki çatlak, nem ve bozulmalar tespit edilir."
+    },
+    {
+     "title": "Hazırlık",
+     "desc": "Eski katmanlar sökülür, yüzey pürüzsüz hâle getirilir."
+    },
+    {
+     "title": "Yalıtım",
+     "desc": "Mantolama veya yalıtım katmanı uygulanır."
+    },
+    {
+     "title": "Kaplama/Boya",
+     "desc": "Yeni yüzey ve renk uygulanır."
+    }
+   ],
+   "materials": [
+    "EPS veya XPS yalıtım plakaları",
+    "Elyaflı sıva sistemleri",
+    "Silikon esaslı boya",
+    "Su bazlı astar sistemleri"
+   ],
+   "benefits": [
+    "Binanın estetik değerinin yükselmesi",
+    "Isınma ve soğutma giderlerinde tasarruf",
+    "Nem ve küf sorunlarının çözümü",
+    "Kısa sürede tamamlanan uygulama"
+   ],
+   "projectTypes": [
+    "Eski apartmanlar",
+    "Site giriş cepheleri",
+    "Kamu ve ticari binalar"
+   ],
+   "faqs": [
+    {
+     "q": "Cephe yenileme sırasında iskele nasıl kurulur?",
+     "a": "İş güvenliği yönetmeliğine uygun çelik iskele veya asma iskele sistemleri kullanılır ve sertifikalı ekipçe yönetilir."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "elektrik-tesisati",
+   "title": "Elektrik Tesisatı",
+   "metaTitle": "Elektrik Tesisatı",
+   "metaDescription": "Güvenli ve verimli elektrik altyapıları. Yönetmeliklere uygun kuvvetli ve zayıf akım elektrik tesisatı projeleri.",
+   "tagline": "Güvenli ve verimli elektrik altyapıları.",
+   "overview": "Yönetmeliklere uygun kuvvetli ve zayıf akım elektrik tesisatı projeleri.",
+   "intro": "Ocean İnşaat elektrik tesisatı projelerinde topraklama, kaçak akım koruması, kablo kesitleri ve kompanzasyon sistemleri projeye uygun şekilde uygulanır.",
+   "scope": [
+    "Ana pano ve dağıtım panoları",
+    "Aydınlatma ve priz devreleri",
+    "Topraklama ve paratoner",
+    "Zayıf akım altyapıları",
+    "Akıllı ev sistemleri"
+   ],
+   "steps": [
+    {
+     "title": "Proje",
+     "desc": "Elektrik projesi hazırlanır."
+    },
+    {
+     "title": "Kaba İş",
+     "desc": "Boru ve buatlar yerleştirilir."
+    },
+    {
+     "title": "Kablolama",
+     "desc": "Devrelere uygun kablo çekilir."
+    },
+    {
+     "title": "Devreye Alma",
+     "desc": "Testler ve topraklama ölçümleri yapılır."
+    }
+   ],
+   "materials": [
+    "Halojensiz kablo",
+    "A tip kaçak akım rölesi",
+    "IP’ye uygun buat ve armatürler"
+   ],
+   "benefits": [
+    "Güvenli ve yönetmeliğe uygun altyapı",
+    "Enerji verimliliği",
+    "Akıllı ev entegrasyonu",
+    "Uzun ömür"
+   ],
+   "projectTypes": [
+    "Konut",
+    "Ofis",
+    "Fabrika",
+    "Ticari yapı"
+   ],
+   "faqs": [
+    {
+     "q": "Akıllı ev sistemleri sonradan entegre edilebilir mi?",
+     "a": "Altyapı planlaması yapıldığında sonradan sorunsuz şekilde entegre edilebilir."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "ev-tadilati",
+   "title": "Ev Tadilatı",
+   "metaTitle": "Ev Tadilatı",
+   "metaDescription": "Ailenizin yaşam alışkanlıklarına uygun bir ev. Mutfak, banyo, oda ve genel alanları kapsayan uçtan uca ev tadilat hizmetleri.",
+   "tagline": "Ailenizin yaşam alışkanlıklarına uygun bir ev.",
+   "overview": "Mutfak, banyo, oda ve genel alanları kapsayan uçtan uca ev tadilat hizmetleri.",
+   "intro": "Ocean İnşaat ev tadilatı projelerinde aileye uygun plan revizyonları, tesisat ve elektrik yenilemeleri, dolap ve mobilya çözümleri yürütülür.",
+   "scope": [
+    "Mutfak ve banyo tadilatı",
+    "Tesisat yenileme",
+    "Zemin ve duvar kaplama",
+    "Dolap ve mobilya",
+    "Aydınlatma ve boya"
+   ],
+   "steps": [
+    {
+     "title": "Ölçüm",
+     "desc": "Ev planı çıkarılır ve ihtiyaçlar belirlenir."
+    },
+    {
+     "title": "Tasarım",
+     "desc": "Konsept ve malzeme kararları verilir."
+    },
+    {
+     "title": "Uygulama",
+     "desc": "Söküm, altyapı ve ince işler tamamlanır."
+    },
+    {
+     "title": "Teslim",
+     "desc": "Kontrol ve temizlik sonrası teslim edilir."
+    }
+   ],
+   "materials": [
+    "Seramik",
+    "Laminat",
+    "Su bazlı boya",
+    "MDF dolap"
+   ],
+   "benefits": [
+    "Yaşam konforunda artış",
+    "Enerji ve su tasarrufu",
+    "Estetik ve modern görünüm",
+    "Yatırım değerinde artış"
+   ],
+   "projectTypes": [
+    "Daireler",
+    "Müstakil evler",
+    "Yazlıklar"
+   ],
+   "faqs": [
+    {
+     "q": "Komple ev tadilatı ne kadar sürer?",
+     "a": "Ortalama 3+1 bir dairede yaklaşık 30–60 gün arasında değişir."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "fabrika-insaati",
+   "title": "Fabrika ve Endüstriyel Yapılar",
+   "metaTitle": "Fabrika ve Endüstriyel Yapılar",
+   "metaDescription": "Üretim akışını önceleyen endüstriyel yapılar. Üretim süreçlerine, ekipman yerleşimine ve lojistik ihtiyaçlara göre kurgulanmış endüstriyel yapı çözümleri.",
+   "tagline": "Üretim akışını önceleyen endüstriyel yapılar.",
+   "overview": "Üretim süreçlerine, ekipman yerleşimine ve lojistik ihtiyaçlara göre kurgulanmış endüstriyel yapı çözümleri.",
+   "intro": "Ocean İnşaat fabrika ve endüstriyel yapı projelerinde makine yerleşimi, malzeme akışı, iş güvenliği ve genişleme potansiyeli üzerine kurulu bir tasarım yaklaşımı benimser.",
+   "scope": [
+    "Üretim akışı analizi",
+    "Çelik veya betonarme taşıyıcı sistem",
+    "Endüstriyel çatı ve cephe",
+    "Zemin sertleştirme ve endüstriyel şap",
+    "Elektrik ve mekanik altyapı",
+    "Yangın söndürme sistemleri"
+   ],
+   "steps": [
+    {
+     "title": "Analiz",
+     "desc": "Üretim akışı, ekipman ve lojistik ihtiyaçları belirlenir."
+    },
+    {
+     "title": "Tasarım",
+     "desc": "Statik ve tesisat sistemleri planlanır."
+    },
+    {
+     "title": "İnşaat",
+     "desc": "Çelik veya betonarme yapı, cephe ve altyapı imalatı yapılır."
+    },
+    {
+     "title": "Devreye Alma",
+     "desc": "Ekipman altyapıları ve testler tamamlanır."
+    }
+   ],
+   "materials": [
+    "Uzay çatı ve makas sistemleri",
+    "Sandviç panel cephe",
+    "Endüstriyel epoksi zemin",
+    "Yangına dayanıklı boya sistemleri"
+   ],
+   "benefits": [
+    "Kısa sürede büyük açıklıklı yapı üretimi",
+    "Genişleme ve modülerlik kolaylığı",
+    "Yüksek enerji verimliliği",
+    "Endüstri 4.0 uyumlu altyapı seçenekleri"
+   ],
+   "projectTypes": [
+    "Üretim tesisleri",
+    "Lojistik depoları",
+    "Soğuk hava depoları",
+    "Ar-Ge ve teknoloji binaları"
+   ],
+   "faqs": [
+    {
+     "q": "Çelik konstrüksiyon mu betonarme mi tercih edilmeli?",
+     "a": "Üretim akışı, açıklık ihtiyacı, yük durumu ve bütçe birlikte değerlendirilerek seçim yapılır."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "hafriyat",
+   "title": "Hafriyat ve Kazı Çalışmaları",
+   "metaTitle": "Hafriyat ve Kazı Çalışmaları",
+   "metaDescription": "Sağlam temeller için doğru kazı. İş makineleri ile yürütülen hafriyat, iksa, dolgu ve sıkıştırma işlemleri.",
+   "tagline": "Sağlam temeller için doğru kazı.",
+   "overview": "İş makineleri ile yürütülen hafriyat, iksa, dolgu ve sıkıştırma işlemleri.",
+   "intro": "Ocean İnşaat hafriyat çalışmalarında zemin etüdüne göre uygun ekipman ve iksa yöntemi seçilir.",
+   "scope": [
+    "Zemin etüdüne göre kazı planı",
+    "İksa sistemleri",
+    "Hafriyat nakli",
+    "Dolgu ve sıkıştırma"
+   ],
+   "steps": [
+    {
+     "title": "Etüt",
+     "desc": "Zemin etüdüne göre kazı yöntemi belirlenir."
+    },
+    {
+     "title": "Kazı",
+     "desc": "İş makineleri ile kazı yapılır."
+    },
+    {
+     "title": "İksa",
+     "desc": "Gerekirse iksa uygulanır."
+    },
+    {
+     "title": "Nakil",
+     "desc": "Onaylı sahalara hafriyat nakli yapılır."
+    }
+   ],
+   "materials": [
+    "Beton kazık",
+    "Ankraj sistemleri",
+    "Çelik iksa",
+    "Dolgu malzemeleri"
+   ],
+   "benefits": [
+    "Güvenli temel",
+    "Komşu yapı güvenliği",
+    "Yönetmeliklere uygun süreç"
+   ],
+   "projectTypes": [
+    "Konut",
+    "Ticari",
+    "Endüstriyel yapılar"
+   ],
+   "faqs": [
+    {
+     "q": "İksa hangi durumlarda zorunlu?",
+     "a": "Derin kazılar, sıkışık kentsel dokular ve zayıf zeminlerde iksa yapılması zorunludur."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "ic-dis-cephe-boya",
+   "title": "İç ve Dış Cephe Boya",
+   "metaTitle": "İç ve Dış Cephe Boya",
+   "metaDescription": "Uzun ömürlü boya sistemleri ile kalıcı yüzeyler. Silikon esaslı dış cephe boyaları ve düşük VOC değerli iç mekân boyaları ile profesyonel boya uygulamaları.",
+   "tagline": "Uzun ömürlü boya sistemleri ile kalıcı yüzeyler.",
+   "overview": "Silikon esaslı dış cephe boyaları ve düşük VOC değerli iç mekân boyaları ile profesyonel boya uygulamaları.",
+   "intro": "Ocean İnşaat boya uygulamalarında yüzey hazırlığı, astar seçimi ve uygun ekipman ile sağlıklı ve kalıcı yüzeyler elde eder.",
+   "scope": [
+    "Yüzey hazırlığı",
+    "Astar uygulaması",
+    "İç boya",
+    "Dış cephe boya",
+    "Dekoratif boya sistemleri"
+   ],
+   "steps": [
+    {
+     "title": "Yüzey",
+     "desc": "Zımpara ve temizlik ile astar için hazırlanır."
+    },
+    {
+     "title": "Astar",
+     "desc": "Uygun astar uygulanır."
+    },
+    {
+     "title": "Boya",
+     "desc": "Boya iki veya üç katta uygulanır."
+    }
+   ],
+   "materials": [
+    "Silikonlu dış cephe boyası",
+    "Su bazlı iç boya",
+    "Antibakteriyel boyalar",
+    "Astar sistemleri"
+   ],
+   "benefits": [
+    "Uzun ömürlü yüzey",
+    "Estetik yenilenme",
+    "Düşük VOC ile sağlıklı iç mekân",
+    "Nem ve küf koruması"
+   ],
+   "projectTypes": [
+    "Konut",
+    "Ofis",
+    "Ticari yapı"
+   ],
+   "faqs": [
+    {
+     "q": "Boya kaç yıl garantilidir?",
+     "a": "Doğru uygulanmış silikon esaslı dış cephe boyaları için 10 yıla kadar üretici garantisi sağlanır."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "ic-mekan-tadilati",
+   "title": "İç Mekân Tadilatı",
+   "metaTitle": "İç Mekân Tadilatı",
+   "metaDescription": "Mevcut alanlarınızı çağdaş yaşam mekânlarına dönüştürün. Duvar, döşeme, tavan, tesisat ve dekorasyon başlıklarını kapsayan bütüncül iç mekân tadilatı.",
+   "tagline": "Mevcut alanlarınızı çağdaş yaşam mekânlarına dönüştürün.",
+   "overview": "Duvar, döşeme, tavan, tesisat ve dekorasyon başlıklarını kapsayan bütüncül iç mekân tadilatı.",
+   "intro": "Ocean İnşaat iç mekân tadilatı projelerinde duvar açma–kapama, tesisat yenileme, alçıpan tavan, aydınlatma, boya ve dolap uygulamaları tek elden yürütülür.",
+   "scope": [
+    "Duvar açma ve yıkım işleri",
+    "Elektrik ve sıhhi tesisat yenileme",
+    "Alçıpan bölme ve tavan",
+    "Zemin uygulaması",
+    "Boya ve dekorasyon",
+    "Mobilya ve dolap uygulaması"
+   ],
+   "steps": [
+    {
+     "title": "Konsept",
+     "desc": "Mekân kullanım analizi ve tasarım kararları alınır."
+    },
+    {
+     "title": "Söküm",
+     "desc": "Yıkım ve söküm işleri güvenli şekilde yürütülür."
+    },
+    {
+     "title": "Altyapı",
+     "desc": "Elektrik, mekanik ve sıhhi tesisat yenilenir."
+    },
+    {
+     "title": "İnce İşler",
+     "desc": "Sıva, boya, zemin ve mobilya uygulanır."
+    }
+   ],
+   "materials": [
+    "Alçıpan",
+    "Laminat / seramik",
+    "Silikon esaslı boya",
+    "MDF ve lam mobilya"
+   ],
+   "benefits": [
+    "Kullanım verimliliğinin artması",
+    "Yaşam kalitesinin yükselmesi",
+    "Yatırım değerinin artması",
+    "Enerji verimliliğinde iyileşme"
+   ],
+   "projectTypes": [
+    "Daire",
+    "Villa",
+    "Ofis",
+    "Mağaza"
+   ],
+   "faqs": [
+    {
+     "q": "Tadilat sırasında evde kalınabilir mi?",
+     "a": "Kısmi tadilatlarda mümkün olabilse de kapsamlı işlerde geçici olarak boşaltılması önerilir."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "insaat-danismanligi",
+   "title": "İnşaat Danışmanlığı",
+   "metaTitle": "İnşaat Danışmanlığı",
+   "metaDescription": "Yatırımlarınızın her aşamasında bağımsız danışmanlık. Yatırımcı, arsa sahibi ve kurumsal müşteriler için proje yönetim ve danışmanlık hizmetleri.",
+   "tagline": "Yatırımlarınızın her aşamasında bağımsız danışmanlık.",
+   "overview": "Yatırımcı, arsa sahibi ve kurumsal müşteriler için proje yönetim ve danışmanlık hizmetleri.",
+   "intro": "Ocean İnşaat inşaat danışmanlığında fizibilite, ihale yönetimi, iş programı kontrolü, hakediş ve kalite denetimi başlıklarında bağımsız destek sunar.",
+   "scope": [
+    "Fizibilite raporu",
+    "İhale ve satın alma yönetimi",
+    "İş programı ve maliyet kontrolü",
+    "Hakediş denetimi",
+    "Kalite ve iş güvenliği denetimi"
+   ],
+   "steps": [
+    {
+     "title": "Analiz",
+     "desc": "Projenin mevcut durumu incelenir."
+    },
+    {
+     "title": "Plan",
+     "desc": "Süreç kurgusu ve iş programı hazırlanır."
+    },
+    {
+     "title": "Denetim",
+     "desc": "Uygulama boyunca kontrol raporları üretilir."
+    }
+   ],
+   "materials": [
+    "Proje yönetim yazılımları",
+    "BIM tabanlı raporlama"
+   ],
+   "benefits": [
+    "Bağımsız değerlendirme",
+    "Bütçe ve süre disiplini",
+    "Kalite ve güvenlik güvencesi"
+   ],
+   "projectTypes": [
+    "Yatırımcılar",
+    "Arsa sahipleri",
+    "Kurumsal müşteriler"
+   ],
+   "faqs": [
+    {
+     "q": "Danışmanlık hizmeti tek sefer mi alınır?",
+     "a": "Projenin tamamı boyunca ya da belirlenen fazlarda alınabilir."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "isi-yalitimi",
+   "title": "Isı Yalıtımı",
+   "metaTitle": "Isı Yalıtımı",
+   "metaDescription": "Yapının enerji karnesini iyileştirin. Cephe, çatı, döşeme ve tesisat üzerinde uygulanan çok katmanlı ısı yalıtımı çözümleri.",
+   "tagline": "Yapının enerji karnesini iyileştirin.",
+   "overview": "Cephe, çatı, döşeme ve tesisat üzerinde uygulanan çok katmanlı ısı yalıtımı çözümleri.",
+   "intro": "Ocean İnşaat ısı yalıtımı hizmetinde yapının tüm kabuk yüzeylerini bütüncül olarak değerlendirir.",
+   "scope": [
+    "Cephe, çatı ve döşeme yalıtımı",
+    "Tesisat yalıtımı",
+    "Termal kamera analizi",
+    "BEP-TR ve enerji kimlik belgesi süreçleri"
+   ],
+   "steps": [
+    {
+     "title": "Etüt",
+     "desc": "Termal kamera ile ısı kayıpları belirlenir."
+    },
+    {
+     "title": "Plan",
+     "desc": "Katman çözümleri ve malzeme seçimi yapılır."
+    },
+    {
+     "title": "Uygulama",
+     "desc": "İlgili yüzeylere yalıtım uygulanır."
+    },
+    {
+     "title": "Rapor",
+     "desc": "Tasarruf hesabı ve enerji raporu sunulur."
+    }
+   ],
+   "materials": [
+    "EPS",
+    "XPS",
+    "Taş yünü",
+    "Poliüretan köpük",
+    "Alüminyum folyolu şiltler"
+   ],
+   "benefits": [
+    "Enerji faturasında kalıcı düşüş",
+    "Isıl konforun artması",
+    "Karbon ayak izinin azaltılması",
+    "Yapının kabuk ömrünün uzaması"
+   ],
+   "projectTypes": [
+    "Konut",
+    "Ofis",
+    "Fabrika",
+    "Kamu binaları"
+   ],
+   "faqs": [
+    {
+     "q": "Hangi yalıtım kalınlığı yeterli?",
+     "a": "TS 825 iklim bölgesi haritasına göre 5–12 cm arası kalınlıklar önerilir."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "kat-karsiligi-insaat",
+   "title": "Kat Karşılığı İnşaat",
+   "metaTitle": "Kat Karşılığı İnşaat",
+   "metaDescription": "Arsanızı güvenli ve değerli bir yatırıma dönüştürün. Arsa sahibi ile müteahhit arasında pay esaslı yürütülen, tarafların hak ve yükümlülüklerinin sözleşmeyle güvence altına alındığı inşaat modelidir.",
+   "tagline": "Arsanızı güvenli ve değerli bir yatırıma dönüştürün.",
+   "overview": "Arsa sahibi ile müteahhit arasında pay esaslı yürütülen, tarafların hak ve yükümlülüklerinin sözleşmeyle güvence altına alındığı inşaat modelidir.",
+   "intro": "Ocean İnşaat kat karşılığı projelerde arsa incelemesi, imar durumu, fizibilite, pay dağılımı ve mimari geliştirmeyi arsa sahibi ile birlikte planlar. Süreç noter onaylı sözleşme ile başlar; ruhsat, inşaat, iskân ve tapu devri firmamız tarafından yönetilir.",
+   "scope": [
+    "Arsa ve imar durumu analizi",
+    "Fizibilite ve değer analizi",
+    "Pay dağılımı ve daire seçim modeli",
+    "Noter onaylı arsa payı karşılığı inşaat sözleşmesi",
+    "Mimari, statik, mekanik ve elektrik projeler",
+    "Ruhsat ve resmi süreçler",
+    "Kaba yapı ve ince işler",
+    "İskân ve tapu devir işlemleri"
+   ],
+   "steps": [
+    {
+     "title": "Ön Görüşme",
+     "desc": "Arsa sahibinin beklentileri ve arsanın konumu değerlendirilir."
+    },
+    {
+     "title": "İmar İncelemesi",
+     "desc": "İmar durumu, çekme mesafeleri, TAKS/KAKS analizi yapılır."
+    },
+    {
+     "title": "Fizibilite",
+     "desc": "Bölgesel pazar değerleri, satış potansiyeli ve pay dağılım simülasyonu."
+    },
+    {
+     "title": "Sözleşme",
+     "desc": "Pay oranı, teslim süresi ve teknik şartname noter huzurunda imzalanır."
+    },
+    {
+     "title": "Projelendirme",
+     "desc": "Mimari ve mühendislik projeleri sözleşmede belirlenen kaliteye göre üretilir."
+    },
+    {
+     "title": "Ruhsat ve Kaba Yapı",
+     "desc": "Belediye onayları alınır, temel ve iskelet imalatı başlar."
+    },
+    {
+     "title": "İnce İşler",
+     "desc": "Cephe, tesisat, seramik, boya ve doğrama işleri tamamlanır."
+    },
+    {
+     "title": "İskân ve Tapu",
+     "desc": "İskân belgesi alınır, arsa sahibi ve müteahhit payları tapuya işlenir."
+    }
+   ],
+   "materials": [
+    "Yüksek dayanımlı hazır beton ve nervürlü demir",
+    "Isı yalıtım yönetmeliğine uygun mantolama levhaları",
+    "Alüminyum veya PVC yalıtımlı doğrama",
+    "Deprem yönetmeliğine uygun bağlantı elemanları"
+   ],
+   "benefits": [
+    "Arsa sahibinden nakit talep edilmez",
+    "Noter onaylı sözleşme ile hukuki güvence",
+    "Şeffaf pay dağılımı ve daire seçim planı",
+    "İmar hakkının en verimli şekilde kullanılması",
+    "Anahtar teslim ve tapulu daire güvencesi"
+   ],
+   "projectTypes": [
+    "Merkez ve alt bölgelerdeki müsait imarlı arsalar",
+    "Eski yapıların bulunduğu dönüşüm alanları",
+    "Ortak arsa sahipliği bulunan parseller"
+   ],
+   "faqs": [
+    {
+     "q": "Kat karşılığı inşaatta pay oranı nasıl belirlenir?",
+     "a": "Arsanın konumu, imar durumu, inşaat maliyeti ve bölgedeki satış rayiçleri üzerinden yapılan fizibiliteyle belirlenir."
+    },
+    {
+     "q": "Sözleşme nerede imzalanır?",
+     "a": "Arsa payı karşılığı inşaat sözleşmeleri Türk Borçlar Kanunu gereği noter huzurunda düzenlenir."
+    },
+    {
+     "q": "Daire seçimi ne zaman yapılır?",
+     "a": "Mimari projenin tamamlanmasının ardından sözleşmede belirlenen pay dağılımına göre kura veya seçim yöntemiyle yapılır."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "kentsel-donusum",
+   "title": "Kentsel Dönüşüm",
+   "metaTitle": "Kentsel Dönüşüm",
+   "metaDescription": "Riskli yapıdan güvenli konuta uçtan uca kentsel dönüşüm süreci. Riskli yapı tespiti, yıkım, projelendirme ve yeniden inşa süreçlerinin arsa sahipleri adına yönetimi.",
+   "tagline": "Riskli yapıdan güvenli konuta uçtan uca kentsel dönüşüm süreci.",
+   "overview": "Riskli yapı tespiti, yıkım, projelendirme ve yeniden inşa süreçlerinin arsa sahipleri adına yönetimi.",
+   "intro": "Ocean İnşaat kentsel dönüşüm süreçlerinde riskli yapı tespiti, hak sahipleri toplantıları, sözleşme, yıkım ruhsatı, tapu tescili ve yeniden inşa gibi başlıkları uçtan uca yönetir.",
+   "scope": [
+    "Riskli yapı raporu süreci",
+    "Hak sahipleri toplantıları",
+    "Sözleşme ve kat mülkiyeti işlemleri",
+    "Yıkım ruhsatı ve yıkım",
+    "Yeni projenin geliştirilmesi ve inşası"
+   ],
+   "steps": [
+    {
+     "title": "İnceleme",
+     "desc": "Yapı ve arsa incelemesi yapılır."
+    },
+    {
+     "title": "Rapor",
+     "desc": "Bakanlık lisanslı kurumdan risk raporu alınır."
+    },
+    {
+     "title": "Anlaşma",
+     "desc": "Hak sahipleri ile inşaat modeli belirlenir."
+    },
+    {
+     "title": "Yıkım",
+     "desc": "Yıkım ruhsatı alınır ve uygulama yapılır."
+    },
+    {
+     "title": "Yeniden İnşa",
+     "desc": "Yeni proje inşa edilir."
+    },
+    {
+     "title": "Teslim",
+     "desc": "Yeni daireler iskân ile teslim edilir."
+    }
+   ],
+   "materials": [
+    "Deprem yönetmeliğine uygun hazır beton",
+    "Enerji verimli yalıtım",
+    "Modern doğrama sistemleri"
+   ],
+   "benefits": [
+    "Güvenli yapı",
+    "Devlet destekleri ve kira yardımı",
+    "Modern konfor standartları",
+    "Değer artışı"
+   ],
+   "projectTypes": [
+    "Riskli bulunan yapılar",
+    "Deprem yönetmeliğine uymayan konutlar",
+    "Eski parseller"
+   ],
+   "faqs": [
+    {
+     "q": "Kentsel dönüşümde kira yardımı ne kadar süre alınır?",
+     "a": "Kanunda belirlenen süre boyunca ilgili yönetmeliğe göre kira yardımı alınabilir."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "konut-insaati",
+   "title": "Konut ve Apartman İnşaatı",
+   "metaTitle": "Konut ve Apartman İnşaatı",
+   "metaDescription": "Yaşam kalitesini önceleyen çağdaş konutlar. Yatay ve düşey mimari kurgudan enerji verimliliğine kadar konforu tanımlayan tüm başlıkları kapsayan konut projeleri.",
+   "tagline": "Yaşam kalitesini önceleyen çağdaş konutlar.",
+   "overview": "Yatay ve düşey mimari kurgudan enerji verimliliğine kadar konforu tanımlayan tüm başlıkları kapsayan konut projeleri.",
+   "intro": "Ocean İnşaat konut projelerinde plan çözümü, doğal aydınlatma, ses ve ısı yalıtımı, ortak alan kalitesi ve yapı güvenliği başlıklarını birlikte ele alır.",
+   "scope": [
+    "Konsept ve avan proje",
+    "Kesin ve uygulama projesi",
+    "Statik, mekanik ve elektrik projeleri",
+    "Kaba yapı imalatı",
+    "İnce işler ve dekorasyon",
+    "Ortak alan tasarımı ve peyzaj"
+   ],
+   "steps": [
+    {
+     "title": "İhtiyaç Analizi",
+     "desc": "Kullanıcı profili, daire tipolojisi ve ortak alan kurgusu belirlenir."
+    },
+    {
+     "title": "Projelendirme",
+     "desc": "Mimari, statik ve tesisat projeleri birlikte üretilir."
+    },
+    {
+     "title": "Ruhsat",
+     "desc": "Belediye onayı ve yapı denetim süreçleri tamamlanır."
+    },
+    {
+     "title": "Yapım",
+     "desc": "Kaba yapı ve ince işler iş programına uygun yürütülür."
+    },
+    {
+     "title": "Teslim",
+     "desc": "Kalite kontrol ve iskân sonrası anahtar teslimi yapılır."
+    }
+   ],
+   "materials": [
+    "C30/37 hazır beton",
+    "B500C nervürlü demir",
+    "Isı ve ses yalıtımlı yapı elemanları",
+    "A enerji sınıfı doğrama ve cam"
+   ],
+   "benefits": [
+    "Deprem yönetmeliğine uygun betonarme çözümleri",
+    "Doğal aydınlatma ve havalandırma odaklı plan çözümleri",
+    "Ortak alanlarda konforu artıran detaylar",
+    "Düşük işletme giderleri için enerji verimli tasarım"
+   ],
+   "projectTypes": [
+    "Site tipi konut projeleri",
+    "Bağımsız apartman projeleri",
+    "Karma kullanımlı yapılar"
+   ],
+   "faqs": [
+    {
+     "q": "Konut projesi kaç ayda tamamlanır?",
+     "a": "Yapı büyüklüğüne bağlı olarak ortalama 12–24 ay arasında teslim süresi öngörülür."
+    },
+    {
+     "q": "Malzeme kalitesi nasıl belirlenir?",
+     "a": "Sözleşmeye eklenen teknik şartnamede kullanılacak marka ve modeller açıkça yazılır."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "magaza-tadilati",
+   "title": "Mağaza Tadilatı",
+   "metaTitle": "Mağaza Tadilatı",
+   "metaDescription": "Marka konseptinizi kısa sürede yeni bir yüzeye taşıyın. Perakende mağazalar için hızlı, kaliteli ve marka standartlarına uygun tadilat uygulamaları.",
+   "tagline": "Marka konseptinizi kısa sürede yeni bir yüzeye taşıyın.",
+   "overview": "Perakende mağazalar için hızlı, kaliteli ve marka standartlarına uygun tadilat uygulamaları.",
+   "intro": "Ocean İnşaat mağaza tadilatı projelerinde satış kaybını en aza indiren gece çalışma programları ve marka konseptine uygun malzeme seçimleri ile hızlı teslim odaklı hizmet sunar.",
+   "scope": [
+    "Vitrin uygulamaları",
+    "Zemin ve tavan yenileme",
+    "Aydınlatma ve elektrik altyapısı",
+    "Kasa ve depolama alanları"
+   ],
+   "steps": [
+    {
+     "title": "Konsept",
+     "desc": "Marka kimliğine uygun konsept belirlenir."
+    },
+    {
+     "title": "Söküm",
+     "desc": "Mevcut mağaza sökülür."
+    },
+    {
+     "title": "Uygulama",
+     "desc": "Kaba iş ve ince işler tamamlanır."
+    },
+    {
+     "title": "Kurulum",
+     "desc": "Aydınlatma, mobilya ve teşhir sistemleri kurulur."
+    }
+   ],
+   "materials": [
+    "Şeffaf cam vitrin",
+    "Modüler teşhir sistemleri",
+    "LED aydınlatma",
+    "PVC/laminat zemin"
+   ],
+   "benefits": [
+    "Kısa süreli teslim",
+    "Marka konseptine tam uyum",
+    "Satış performansına katkı",
+    "Estetik ve kalıcı yüzey"
+   ],
+   "projectTypes": [
+    "AVM mağazaları",
+    "Cadde mağazaları",
+    "Restoran ve kafeler"
+   ],
+   "faqs": [
+    {
+     "q": "AVM içindeki mağaza tadilatı gündüz yapılabilir mi?",
+     "a": "AVM yönetimleri genellikle gece çalışmasına izin verir; buna uygun ekip planlaması yapılır."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "mantolama",
+   "title": "Mantolama ve Isı Yalıtımı",
+   "metaTitle": "Mantolama ve Isı Yalıtımı",
+   "metaDescription": "Isıtma ve soğutma maliyetlerini kalıcı olarak düşürün. Dış cepheye uygulanan yalıtım levhaları ile yapının enerji verimliliğinin ve konforunun artırılması.",
+   "tagline": "Isıtma ve soğutma maliyetlerini kalıcı olarak düşürün.",
+   "overview": "Dış cepheye uygulanan yalıtım levhaları ile yapının enerji verimliliğinin ve konforunun artırılması.",
+   "intro": "Ocean İnşaat mantolama uygulamalarında yapının iklim bölgesine göre TS 825 uyumlu kalınlıkta yalıtım levhaları seçer.",
+   "scope": [
+    "Cephe analizi",
+    "Yalıtım kalınlığı hesabı",
+    "EPS/XPS/taş yünü uygulaması",
+    "Fileli sıva",
+    "Silikon esaslı dekoratif kaplama"
+   ],
+   "steps": [
+    {
+     "title": "Analiz",
+     "desc": "Yalıtım ihtiyacı ve nem kaynakları belirlenir."
+    },
+    {
+     "title": "Yüzey Hazırlığı",
+     "desc": "Astar ve tesviye çalışmaları yapılır."
+    },
+    {
+     "title": "Yalıtım",
+     "desc": "Levhalar yapıya sabitlenir."
+    },
+    {
+     "title": "Kaplama",
+     "desc": "Fileli sıva ve dekoratif kaplama uygulanır."
+    }
+   ],
+   "materials": [
+    "EPS 16 dns yalıtım levhası",
+    "XPS levhalar",
+    "Taş yünü",
+    "Silikon esaslı dekoratif sıva"
+   ],
+   "benefits": [
+    "Yakıt tüketiminde %25’e varan tasarruf",
+    "İç mekân konforunun artması",
+    "Nem ve küf oluşumunun engellenmesi",
+    "Binaya değer katan estetik yüzey"
+   ],
+   "projectTypes": [
+    "Apartmanlar",
+    "Villalar",
+    "Kamu binaları",
+    "Ticari yapılar"
+   ],
+   "faqs": [
+    {
+     "q": "Mantolama ne kadar sürer?",
+     "a": "Orta ölçekli bir apartmanda cephe alanına bağlı olarak 15–35 gün arasında tamamlanır."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "mekanik-tesisat",
+   "title": "Mekanik Tesisat",
+   "metaTitle": "Mekanik Tesisat",
+   "metaDescription": "Isıtma, soğutma ve havalandırmada modern çözümler. Doğalgaz, kombi, klima, VRF ve havalandırma sistemleri için mekanik tesisat uygulamaları.",
+   "tagline": "Isıtma, soğutma ve havalandırmada modern çözümler.",
+   "overview": "Doğalgaz, kombi, klima, VRF ve havalandırma sistemleri için mekanik tesisat uygulamaları.",
+   "intro": "Ocean İnşaat mekanik tesisat projelerinde iç mekân konforu, enerji verimliliği ve işletme maliyetleri birlikte planlanır.",
+   "scope": [
+    "Kombi ve doğalgaz tesisatı",
+    "Klima ve VRF sistemleri",
+    "Radyatör ve yerden ısıtma",
+    "Havalandırma ve baca",
+    "Isı pompası ve güneş enerjisi"
+   ],
+   "steps": [
+    {
+     "title": "Proje",
+     "desc": "Mekanik projeler hazırlanır."
+    },
+    {
+     "title": "Uygulama",
+     "desc": "Boru ve kanal işleri tamamlanır."
+    },
+    {
+     "title": "Test",
+     "desc": "Basınç ve sızdırmazlık testleri yapılır."
+    },
+    {
+     "title": "Devreye Alma",
+     "desc": "Sistemler kalibre edilir."
+    }
+   ],
+   "materials": [
+    "Alupex ve PPR boru",
+    "İzoleli havalandırma kanalları",
+    "Yerden ısıtma boruları",
+    "Enerji sınıfı yüksek klima ve VRF üniteleri"
+   ],
+   "benefits": [
+    "Yüksek konfor",
+    "Düşük işletme gideri",
+    "Bakım kolaylığı",
+    "Yenilenebilir enerji uyumu"
+   ],
+   "projectTypes": [
+    "Konut",
+    "Ofis",
+    "Fabrika",
+    "Otel"
+   ],
+   "faqs": [
+    {
+     "q": "VRF ile klima arasındaki fark nedir?",
+     "a": "VRF sistemleri çok noktaya tek merkezden servis sağladığı için büyük yapılar için daha verimlidir."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "mimari-projelendirme",
+   "title": "Mimari Projelendirme",
+   "metaTitle": "Mimari Projelendirme",
+   "metaDescription": "Kavramdan uygulamaya profesyonel mimari projeler. Mimari konsept, avan proje, kesin proje ve uygulama projesi süreçleri.",
+   "tagline": "Kavramdan uygulamaya profesyonel mimari projeler.",
+   "overview": "Mimari konsept, avan proje, kesin proje ve uygulama projesi süreçleri.",
+   "intro": "Ocean İnşaat mimari projelendirme sürecinde arazi analizi, imar durumu, ihtiyaç programı ve estetik hedeflerle uyumlu projeler hazırlar.",
+   "scope": [
+    "Konsept ve avan proje",
+    "Kesin ve uygulama projesi",
+    "BIM koordinasyon",
+    "Ruhsat dokümantasyonu"
+   ],
+   "steps": [
+    {
+     "title": "Konsept",
+     "desc": "İhtiyaç ve estetik hedefler belirlenir."
+    },
+    {
+     "title": "Avan Proje",
+     "desc": "Genel çözüm ve kütle çalışılır."
+    },
+    {
+     "title": "Uygulama Projesi",
+     "desc": "Detaylı çizimler tamamlanır."
+    }
+   ],
+   "materials": [
+    "CAD ve BIM yazılımları",
+    "Onaylı çizim standartları"
+   ],
+   "benefits": [
+    "Uygulanabilir ve maliyet dostu projeler",
+    "BIM ile çakışma önleme",
+    "Ruhsat süreçlerinde hız"
+   ],
+   "projectTypes": [
+    "Konut",
+    "Ticari yapı",
+    "Endüstriyel yapı"
+   ],
+   "faqs": [
+    {
+     "q": "BIM projelendirmenin avantajı nedir?",
+     "a": "BIM ile mimari, statik ve tesisat projeleri arasındaki çakışmalar önceden görülüp çözülür."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "ofis-tadilati",
+   "title": "Ofis Tadilatı",
+   "metaTitle": "Ofis Tadilatı",
+   "metaDescription": "Ekip verimliliğini artıran modern çalışma alanları. Açık ofis, toplantı odaları, kabinler ve sosyal alanların bütüncül olarak yenilendiği ofis tasarım ve uygulama hizmeti.",
+   "tagline": "Ekip verimliliğini artıran modern çalışma alanları.",
+   "overview": "Açık ofis, toplantı odaları, kabinler ve sosyal alanların bütüncül olarak yenilendiği ofis tasarım ve uygulama hizmeti.",
+   "intro": "Ocean İnşaat ofis tadilatı projelerinde marka kimliği, çalışma biçimi, ekip büyüklüğü ve teknolojik altyapı ihtiyaçları birlikte planlanır.",
+   "scope": [
+    "Açık ve kapalı ofis düzenleri",
+    "Toplantı ve odaklanma alanları",
+    "Alçıpan bölmeler ve cam ünite",
+    "Aydınlatma ve zayıf akım altyapısı",
+    "Aktif ve dinlenme alanları"
+   ],
+   "steps": [
+    {
+     "title": "Analiz",
+     "desc": "Ekip yapısı ve iş akışı incelenir."
+    },
+    {
+     "title": "Tasarım",
+     "desc": "Konsept ve malzeme paleti hazırlanır."
+    },
+    {
+     "title": "Uygulama",
+     "desc": "Mimari, mekanik ve elektrik işleri koordineli yürütülür."
+    },
+    {
+     "title": "Kurulum",
+     "desc": "Mobilya ve teknoloji altyapısı devreye alınır."
+    }
+   ],
+   "materials": [
+    "Cam bölme sistemleri",
+    "Karo halı",
+    "Akustik panel",
+    "Ergonomik mobilya"
+   ],
+   "benefits": [
+    "Çalışan memnuniyetinde artış",
+    "İşe alım avantajı",
+    "Marka değerinin yükselmesi",
+    "Enerji ve akustik konforda iyileşme"
+   ],
+   "projectTypes": [
+    "Şirket merkezleri",
+    "Startup ofisleri",
+    "Kamu binaları",
+    "Ortak çalışma alanları"
+   ],
+   "faqs": [
+    {
+     "q": "Ofis çalışırken tadilat yapılabilir mi?",
+     "a": "Bölgesel çalışma planı ve mesai dışı çalışmalarla ekip verimliliği korunarak tadilat sürdürülebilir."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "otel-tadilati",
+   "title": "Otel Tadilatı",
+   "metaTitle": "Otel Tadilatı",
+   "metaDescription": "Konuk deneyimini yeniden tanımlayan otel yenilemeleri. Oda, lobi, restoran, spa ve genel alanlar için bütüncül otel yenileme uygulamaları.",
+   "tagline": "Konuk deneyimini yeniden tanımlayan otel yenilemeleri.",
+   "overview": "Oda, lobi, restoran, spa ve genel alanlar için bütüncül otel yenileme uygulamaları.",
+   "intro": "Ocean İnşaat otel projelerinde işletmenin doluluk takvimi ve konuk deneyimi göz önünde bulundurularak faz bazlı bir yenileme planı hazırlanır.",
+   "scope": [
+    "Oda yenilemeleri",
+    "Lobi ve restoran tadilatı",
+    "Cephe ve peyzaj",
+    "Mekanik ve elektrik altyapı revizyonu"
+   ],
+   "steps": [
+    {
+     "title": "Konsept",
+     "desc": "Marka konumlandırması ve konsept çalışılır."
+    },
+    {
+     "title": "Planlama",
+     "desc": "Faz bazlı iş programı hazırlanır."
+    },
+    {
+     "title": "Uygulama",
+     "desc": "Fazlar sırayla uygulanır."
+    },
+    {
+     "title": "Teslim",
+     "desc": "Genel test ve devreye alma yapılır."
+    }
+   ],
+   "materials": [
+    "Doğal taş",
+    "Ahşap kaplama",
+    "Akustik panel",
+    "Yüksek performanslı tekstil"
+   ],
+   "benefits": [
+    "Konuk memnuniyetinde artış",
+    "Doluluk ve fiyat konumlandırmasında iyileşme",
+    "Enerji verimliliğinde tasarruf",
+    "Marka değerinin güçlenmesi"
+   ],
+   "projectTypes": [
+    "Termal oteller",
+    "Şehir otelleri",
+    "Butik oteller",
+    "Tatil köyleri"
+   ],
+   "faqs": [
+    {
+     "q": "Otel çalışırken tadilat yapılabilir mi?",
+     "a": "Kat veya blok bazlı planlama ile mümkündür."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "parke-zemin",
+   "title": "Parke ve Zemin Kaplama",
+   "metaTitle": "Parke ve Zemin Kaplama",
+   "metaDescription": "Modern ve sıcak yaşam alanları için zemin kaplamaları. Laminat, ahşap, LVT ve epoksi zemin uygulamaları ile modern mekânlar.",
+   "tagline": "Modern ve sıcak yaşam alanları için zemin kaplamaları.",
+   "overview": "Laminat, ahşap, LVT ve epoksi zemin uygulamaları ile modern mekânlar.",
+   "intro": "Ocean İnşaat zemin uygulamalarında kullanım yoğunluğu, nem seviyesi ve estetik hedef doğrultusunda uygun malzeme seçimi yapılır.",
+   "scope": [
+    "Laminat parke",
+    "Ahşap masif parke",
+    "LVT/PVC zemin",
+    "Epoksi endüstriyel zemin"
+   ],
+   "steps": [
+    {
+     "title": "Yüzey",
+     "desc": "Şap tesviyesi ve nem ölçümü yapılır."
+    },
+    {
+     "title": "Kaplama",
+     "desc": "Malzeme yapıştırılarak veya geçmeli olarak döşenir."
+    },
+    {
+     "title": "Süpürgelik",
+     "desc": "Süpürgelik ve geçiş profilleri tamamlanır."
+    }
+   ],
+   "materials": [
+    "Laminat AC5",
+    "Masif ahşap",
+    "LVT plaka",
+    "Epoksi reçine"
+   ],
+   "benefits": [
+    "Sıcak ve modern görünüm",
+    "Hızlı uygulama",
+    "Kolay bakım",
+    "Farklı bütçelere uygun seçenekler"
+   ],
+   "projectTypes": [
+    "Konut",
+    "Ofis",
+    "Mağaza",
+    "Fabrika"
+   ],
+   "faqs": [
+    {
+     "q": "Laminat parke ıslak hacimlerde kullanılır mı?",
+     "a": "Standart laminat parkeler ıslak hacim için önerilmez; bunun için su geçirmez LVT tercih edilmelidir."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "peyzaj",
+   "title": "Peyzaj ve Çevre Düzenlemesi",
+   "metaTitle": "Peyzaj ve Çevre Düzenlemesi",
+   "metaDescription": "Yapıyı çevreyle buluşturan yeşil dokunuşlar. Bahçe, teras, yürüyüş yolu ve ortak alanlar için peyzaj tasarım ve uygulama hizmetleri.",
+   "tagline": "Yapıyı çevreyle buluşturan yeşil dokunuşlar.",
+   "overview": "Bahçe, teras, yürüyüş yolu ve ortak alanlar için peyzaj tasarım ve uygulama hizmetleri.",
+   "intro": "Ocean İnşaat peyzaj projelerinde iklim koşulları ve bakım kolaylığı ön plana çıkarılarak sürdürülebilir bitki seçimi yapılır.",
+   "scope": [
+    "Peyzaj tasarım",
+    "Bitki seçimi ve dikim",
+    "Otomatik sulama",
+    "Sert zemin ve yürüyüş yolları",
+    "Dış mekân aydınlatma"
+   ],
+   "steps": [
+    {
+     "title": "Tasarım",
+     "desc": "Kullanım ve iklime uygun tasarım yapılır."
+    },
+    {
+     "title": "Uygulama",
+     "desc": "Sert ve yumuşak peyzaj işleri tamamlanır."
+    },
+    {
+     "title": "Bakım",
+     "desc": "Başlangıç dönemi bakım desteği sağlanır."
+    }
+   ],
+   "materials": [
+    "Doğal taş",
+    "Ahşap deck",
+    "Otomatik sulama sistemi",
+    "Yerli bitkiler"
+   ],
+   "benefits": [
+    "Yapının değer artışı",
+    "Kullanıcı memnuniyeti",
+    "Su verimli sulama",
+    "Sürdürülebilir bitki örtüsü"
+   ],
+   "projectTypes": [
+    "Siteler",
+    "Villalar",
+    "Ticari kampüsler"
+   ],
+   "faqs": [
+    {
+     "q": "Peyzaj bakımı sonrası da veriyor musunuz?",
+     "a": "Talep hâlinde ilk 12 ay boyunca periyodik bakım desteği sağlanır."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "restorasyon",
+   "title": "Restorasyon ve Yenileme",
+   "metaTitle": "Restorasyon ve Yenileme",
+   "metaDescription": "Tarihi dokuyu koruyarak modern konfora taşıyın. Tarihi yapılar ve özgün mimari dokular için koruma amaçlı restorasyon uygulamaları.",
+   "tagline": "Tarihi dokuyu koruyarak modern konfora taşıyın.",
+   "overview": "Tarihi yapılar ve özgün mimari dokular için koruma amaçlı restorasyon uygulamaları.",
+   "intro": "Ocean İnşaat restorasyon projelerinde koruma kurulu onaylı projeler doğrultusunda geleneksel malzeme ve teknikler kullanılır.",
+   "scope": [
+    "Röleve ve restitüsyon çalışmaları",
+    "Restorasyon projeleri",
+    "Malzeme analizleri",
+    "Uygulama ve konservasyon"
+   ],
+   "steps": [
+    {
+     "title": "Analiz",
+     "desc": "Yapının tarihi ve teknik analizi yapılır."
+    },
+    {
+     "title": "Proje",
+     "desc": "Koruma kurulu onaylı projeler hazırlanır."
+    },
+    {
+     "title": "Uygulama",
+     "desc": "Geleneksel yöntemlerle uygulama yapılır."
+    }
+   ],
+   "materials": [
+    "Horasan harcı",
+    "Kireç sıvası",
+    "Ahşap ve doğal taş",
+    "Bakır ve kurşun kaplama"
+   ],
+   "benefits": [
+    "Kültürel mirasın korunması",
+    "Yapının uzun ömürlü kalması",
+    "Modern konforun entegre edilmesi"
+   ],
+   "projectTypes": [
+    "Tarihi konaklar",
+    "Camiler ve türbeler",
+    "Anıt eserler"
+   ],
+   "faqs": [
+    {
+     "q": "Restorasyonda hangi kurumlardan onay alınır?",
+     "a": "Kültür ve Turizm Bakanlığı Kurulu ve ilgili belediye onayları alınır."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "seramik-fayans",
+   "title": "Seramik ve Fayans",
+   "metaTitle": "Seramik ve Fayans",
+   "metaDescription": "Islak hacim ve genel yüzeylerde estetik ve dayanıklı çözüm. Mutfak, banyo, balkon, teras ve mağaza gibi alanlarda modern seramik ve porselen uygulamaları.",
+   "tagline": "Islak hacim ve genel yüzeylerde estetik ve dayanıklı çözüm.",
+   "overview": "Mutfak, banyo, balkon, teras ve mağaza gibi alanlarda modern seramik ve porselen uygulamaları.",
+   "intro": "Ocean İnşaat seramik uygulamalarında yüzey tesviyesi, su yalıtımı ve derz seçimi büyük özenle yapılır.",
+   "scope": [
+    "Zemin ve duvar seramik uygulaması",
+    "Su yalıtımı entegrasyonu",
+    "Derz ve silikon işçiliği"
+   ],
+   "steps": [
+    {
+     "title": "Hazırlık",
+     "desc": "Yüzey tesviyesi ve yalıtım kontrol edilir."
+    },
+    {
+     "title": "Uygulama",
+     "desc": "Seramik, projeye uygun kalıpta döşenir."
+    },
+    {
+     "title": "Derz",
+     "desc": "Renk ve dayanım açısından uygun derz yapılır."
+    }
+   ],
+   "materials": [
+    "Porselen seramik",
+    "Yapıştırıcı harç",
+    "Su yalıtım harcı",
+    "Silikon"
+   ],
+   "benefits": [
+    "Yüksek dayanıklılık",
+    "Kolay temizlik",
+    "Estetik çeşitlilik",
+    "Islak hacim güvenliği"
+   ],
+   "projectTypes": [
+    "Banyo",
+    "Mutfak",
+    "Balkon",
+    "Mağaza"
+   ],
+   "faqs": [
+    {
+     "q": "Eski seramikler sökülmeden yenisi döşenebilir mi?",
+     "a": "Kot farkı, altlık uygunluğu ve statik değerlendirmeye göre bazı durumlarda mümkün olabilir."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "ses-yalitimi",
+   "title": "Ses Yalıtımı",
+   "metaTitle": "Ses Yalıtımı",
+   "metaDescription": "Sessiz ve konforlu mekânlar için akustik çözümler. Duvar, döşeme ve tavan üzerine uygulanan akustik levha ve süngerler ile ses geçişinin kontrol altına alınması.",
+   "tagline": "Sessiz ve konforlu mekânlar için akustik çözümler.",
+   "overview": "Duvar, döşeme ve tavan üzerine uygulanan akustik levha ve süngerler ile ses geçişinin kontrol altına alınması.",
+   "intro": "Ocean İnşaat ses yalıtımı projelerinde mekânın kullanım amacı ve akustik hedefi doğrultusunda süngerli, panelli veya asma tavan tipi çözümler geliştirir.",
+   "scope": [
+    "Duvar ses yalıtımı",
+    "Döşeme darbe sesi yalıtımı",
+    "Tavan yalıtımı",
+    "Kapı ve pencere sızdırmazlık işleri"
+   ],
+   "steps": [
+    {
+     "title": "Ölçüm",
+     "desc": "Ses seviyesi ölçülür ve hedef değer belirlenir."
+    },
+    {
+     "title": "Tasarım",
+     "desc": "Katmanlı sistem tasarımı yapılır."
+    },
+    {
+     "title": "Uygulama",
+     "desc": "Yüzeylere yalıtım malzemeleri uygulanır."
+    },
+    {
+     "title": "Kontrol",
+     "desc": "Uygulama sonrası ölçüm ile başarı doğrulanır."
+    }
+   ],
+   "materials": [
+    "Taş yünü",
+    "Akustik sünger",
+    "MDF akustik panel",
+    "Kauçuk şilte"
+   ],
+   "benefits": [
+    "Komşu ve trafik gürültüsünde belirgin azalma",
+    "Toplantı ve stüdyo alanlarında akustik konfor",
+    "İş verimliliğinin artması",
+    "Kolay entegre edilen sistemler"
+   ],
+   "projectTypes": [
+    "Konut",
+    "Ofis",
+    "Stüdyo",
+    "Otel ve restoran"
+   ],
+   "faqs": [
+    {
+     "q": "Ses yalıtımı komşu gürültüsünü tamamen keser mi?",
+     "a": "Ses tamamen ortadan kaldırılamasa da hedef desibel değerine göre kayda değer düşüş sağlanır."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "sihhi-tesisat",
+   "title": "Sıhhi Tesisat",
+   "metaTitle": "Sıhhi Tesisat",
+   "metaDescription": "Temiz ve pis su hatlarında güvenli mühendislik. Yapıya özel çıkarılan projeye uygun sıhhi tesisat imalatı.",
+   "tagline": "Temiz ve pis su hatlarında güvenli mühendislik.",
+   "overview": "Yapıya özel çıkarılan projeye uygun sıhhi tesisat imalatı.",
+   "intro": "Ocean İnşaat sıhhi tesisat uygulamalarında temiz su, pis su, yağmur suyu ve gri su hatları ayrı ayrı planlanır.",
+   "scope": [
+    "Temiz su hattı",
+    "Pis su ve havalandırma",
+    "Yağmur suyu drenajı",
+    "Gri su geri kazanım altyapısı"
+   ],
+   "steps": [
+    {
+     "title": "Proje",
+     "desc": "Sıhhi tesisat projesi hazırlanır."
+    },
+    {
+     "title": "Kaba İş",
+     "desc": "Boru güzergâhları döşenir."
+    },
+    {
+     "title": "Test",
+     "desc": "Basınç testleri yapılır."
+    },
+    {
+     "title": "İnce İş",
+     "desc": "Vitrifiye ve armatürler monte edilir."
+    }
+   ],
+   "materials": [
+    "PPR temiz su borusu",
+    "HDPE pis su borusu",
+    "Yalıtımlı geçiş elemanları"
+   ],
+   "benefits": [
+    "Kalıcı ve sızdırmaz tesisat",
+    "Bakım kolaylığı",
+    "Su tasarrufu uygulamaları",
+    "Sağlıklı yaşam alanı"
+   ],
+   "projectTypes": [
+    "Konut",
+    "Ofis",
+    "Fabrika"
+   ],
+   "faqs": [
+    {
+     "q": "Sıhhi tesisatta hangi boru kullanılmalı?",
+     "a": "Temiz su için PPR, pis su için HDPE tercih edilmesi kalıcı çözüm sunar."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "statik-projelendirme",
+   "title": "Statik Projelendirme",
+   "metaTitle": "Statik Projelendirme",
+   "metaDescription": "Deprem yönetmeliğine uygun statik projeler. Betonarme ve çelik yapılar için deprem yönetmeliği uyumlu statik projelendirme hizmetleri.",
+   "tagline": "Deprem yönetmeliğine uygun statik projeler.",
+   "overview": "Betonarme ve çelik yapılar için deprem yönetmeliği uyumlu statik projelendirme hizmetleri.",
+   "intro": "Ocean İnşaat statik projelerinde TBDY 2018 kapsamında modelleme, doğrusal olmayan analiz ve performans hedeflerine uygun tasarım yapılır.",
+   "scope": [
+    "Statik proje ön analiz",
+    "Yapı modellemesi",
+    "Zemin etüdü koordinasyonu",
+    "Ruhsat sunumu"
+   ],
+   "steps": [
+    {
+     "title": "Analiz",
+     "desc": "Zemin ve mimari veriler değerlendirilir."
+    },
+    {
+     "title": "Model",
+     "desc": "Yapı modellenir ve çözülür."
+    },
+    {
+     "title": "Tasarım",
+     "desc": "Kesitler ve donatı planları çıkarılır."
+    }
+   ],
+   "materials": [
+    "Statik analiz yazılımları",
+    "TBDY 2018 dokümantasyonu"
+   ],
+   "benefits": [
+    "Güvenli ve ekonomik tasarım",
+    "Ruhsat süreçlerinde uyum",
+    "Alternatif çözüm senaryoları"
+   ],
+   "projectTypes": [
+    "Yeni yapılar",
+    "Güçlendirme projeleri",
+    "Endüstriyel yapılar"
+   ],
+   "faqs": [
+    {
+     "q": "Statik proje ne kadar sürer?",
+     "a": "Yapı büyüklüğüne göre 3–8 hafta arasında değişir."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "su-yalitimi",
+   "title": "Su Yalıtımı",
+   "metaTitle": "Su Yalıtımı",
+   "metaDescription": "Yapının en büyük düşmanı olan suyu kalıcı olarak durdurun. Temel, çatı, balkon, teras, ıslak hacim ve perde duvarların modern su yalıtım sistemleri ile korunması.",
+   "tagline": "Yapının en büyük düşmanı olan suyu kalıcı olarak durdurun.",
+   "overview": "Temel, çatı, balkon, teras, ıslak hacim ve perde duvarların modern su yalıtım sistemleri ile korunması.",
+   "intro": "Ocean İnşaat su yalıtımı uygulamalarında yapının hangi bölgede olduğuna, taban suyu seviyesine ve yüzey tipine göre farklı sistemleri birlikte planlar.",
+   "scope": [
+    "Temel su yalıtımı",
+    "Teras ve çatı yalıtımı",
+    "Balkon yalıtımı",
+    "Islak hacim yalıtımı",
+    "Havuz yalıtımı"
+   ],
+   "steps": [
+    {
+     "title": "Yüzey Hazırlığı",
+     "desc": "Yüzey temizlenir ve astar uygulanır."
+    },
+    {
+     "title": "Yalıtım Uygulaması",
+     "desc": "Uygun sistem katmanlı olarak uygulanır."
+    },
+    {
+     "title": "Test",
+     "desc": "Su tutma testi yapılır."
+    },
+    {
+     "title": "Koruma Katmanı",
+     "desc": "Şap veya koruma tabakası ile bitirilir."
+    }
+   ],
+   "materials": [
+    "Bitümlü membran",
+    "Poliüretan esaslı sıvı membran",
+    "Çimento esaslı su yalıtım harcı",
+    "EPDM membran"
+   ],
+   "benefits": [
+    "Yapının uzun ömürlü kalması",
+    "Küf ve nem sorunlarının önlenmesi",
+    "Bakım ve tamir maliyetlerinin düşmesi",
+    "İç mekân sağlığının korunması"
+   ],
+   "projectTypes": [
+    "Yeni yapılar",
+    "Eski binaların rehabilitasyonu",
+    "Endüstriyel yapılar",
+    "Havuz ve depolar"
+   ],
+   "faqs": [
+    {
+     "q": "Su yalıtımı ne kadar süre garanti kapsamında kalır?",
+     "a": "Kullanılan sistem ve marka güvencesine göre 5–15 yıl arasında garanti sağlanabilir."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "ticari-yapi-insaati",
+   "title": "Ticari Yapı İnşaatı",
+   "metaTitle": "Ticari Yapı İnşaatı",
+   "metaDescription": "Marka kimliğini yapıya taşıyan ticari çözümler. Mağaza, ofis, plaza ve karma kullanımlı ticari yapıların projelendirme ve inşaat süreçleri.",
+   "tagline": "Marka kimliğini yapıya taşıyan ticari çözümler.",
+   "overview": "Mağaza, ofis, plaza ve karma kullanımlı ticari yapıların projelendirme ve inşaat süreçleri.",
+   "intro": "Ocean İnşaat ticari yapı projelerinde marka kimliği, ziyaretçi akışı, müşteri deneyimi ve işletme verimliliği başlıklarını birlikte planlar.",
+   "scope": [
+    "Konsept ve marka odaklı mimari",
+    "Cephe tasarımı",
+    "İklimlendirme ve zayıf akım altyapısı",
+    "Perakende odaklı iç mekân çözümleri",
+    "Otopark ve servis alanları"
+   ],
+   "steps": [
+    {
+     "title": "İhtiyaç Analizi",
+     "desc": "Marka, kullanıcı akışı ve işletme modeli değerlendirilir."
+    },
+    {
+     "title": "Tasarım",
+     "desc": "Mimari, mekanik ve elektrik projeleri birlikte üretilir."
+    },
+    {
+     "title": "Uygulama",
+     "desc": "Kaba yapı, cephe, iç mekân ve altyapı işleri yürütülür."
+    },
+    {
+     "title": "Devreye Alma",
+     "desc": "Sistem testleri ve teslim yapılır."
+    }
+   ],
+   "materials": [
+    "Yüksek dayanımlı beton ve çelik",
+    "Kompozit ve cam giydirme cephe sistemleri",
+    "VRF veya chiller iklimlendirme sistemleri",
+    "A2 sınıfı yangın güvenlik ekipmanları"
+   ],
+   "benefits": [
+    "Marka kimliğini yansıtan mimari",
+    "Yüksek ziyaretçi trafiğine uygun çözümler",
+    "Enerji verimli mekanik altyapı",
+    "Bakım maliyeti düşük malzeme seçimleri"
+   ],
+   "projectTypes": [
+    "Ofis binaları",
+    "Plaza projeleri",
+    "Perakende mağazalar",
+    "Showroomlar"
+   ],
+   "faqs": [
+    {
+     "q": "Ticari yapıda cephe tasarımı ne kadar önemli?",
+     "a": "Ticari yapıda cephe marka kimliğinin bir parçasıdır; ışık, malzeme ve oran seçimleri müşteri algısını doğrudan etkiler."
+    }
+   ],
+   "_extra": []
+  },
+  {
+   "slug": "villa-insaati",
+   "title": "Villa İnşaatı",
+   "metaTitle": "Villa İnşaatı",
+   "metaDescription": "Kişiye özel tasarımla üretilen özel yaşam alanları. Arazi topoğrafyasına, aile yaşam biçimine ve tasarım tercihlerinize göre şekillenen özgün villa projeleri.",
+   "tagline": "Kişiye özel tasarımla üretilen özel yaşam alanları.",
+   "overview": "Arazi topoğrafyasına, aile yaşam biçimine ve tasarım tercihlerinize göre şekillenen özgün villa projeleri.",
+   "intro": "Ocean İnşaat villa projelerinde arazinin manzarası, yönü ve eğimi, kullanıcının yaşam alışkanlıkları ve mimari tercihler birlikte değerlendirilir.",
+   "scope": [
+    "Arsa analizi ve topografik ölçüm",
+    "Mimari ve peyzaj konsepti",
+    "Statik ve mekanik projelendirme",
+    "Akıllı ev altyapısı",
+    "İnce işler ve dekorasyon",
+    "Havuz ve peyzaj uygulamaları"
+   ],
+   "steps": [
+    {
+     "title": "Konsept",
+     "desc": "Kullanıcı tercihleri, oda programı ve stil belirlenir."
+    },
+    {
+     "title": "Tasarım",
+     "desc": "Mimari, peyzaj ve iç mekân tasarımları koordineli üretilir."
+    },
+    {
+     "title": "Uygulama",
+     "desc": "Kaba yapı, cephe, iç mekân ve peyzaj işleri yürütülür."
+    },
+    {
+     "title": "Teslim",
+     "desc": "Kullanıcıya özel kalite kontrol ve teslim süreci uygulanır."
+    }
+   ],
+   "materials": [
+    "C30/37 hazır beton veya hafif çelik konstrüksiyon",
+    "Doğal taş, ahşap ve alüminyum kompozit cephe kaplamaları",
+    "Yerden ısıtma sistemleri",
+    "Isı ve ses yalıtımlı doğrama sistemleri"
+   ],
+   "benefits": [
+    "Kullanıcıya özel mimari kurgu",
+    "Doğal malzeme ve sürdürülebilir tasarım seçenekleri",
+    "Akıllı ev ve enerji sistemleri entegrasyonu",
+    "Peyzaj, havuz ve dış alan detaylarında bütüncül planlama"
+   ],
+   "projectTypes": [
+    "Müstakil arsalar",
+    "Villa siteleri",
+    "Kırsal ve yayla bölgeleri"
+   ],
+   "faqs": [
+    {
+     "q": "Villa inşaatında hangi taşıyıcı sistem tercih edilmeli?",
+     "a": "Arazi zemini ve mimari tercihe göre betonarme, hafif çelik veya karma sistem seçilebilir."
+    },
+    {
+     "q": "Havuz ve peyzaj işleri aynı sözleşmeye dahil edilebilir mi?",
+     "a": "Evet, tüm dış alan işleri anahtar teslim sözleşmesine dahil edilerek tek muhataptan yönetilebilir."
+    }
+   ],
+   "_extra": []
+  }
+ ],
+ "projects": [
+  {
+   "slug": "avrupa-temper-3-2-mw-ges",
+   "title": "Güneş Paneli Projesi",
+   "metaTitle": "Güneş Paneli Projesi — Çatı Üstü GES",
+   "metaDescription": "Ocean İnşaat’ın uygulama kapsamında görev aldığı büyük ölçekli çatı üstü güneş paneli projesi.",
+   "category": "Enerji · Endüstriyel Yapı",
+   "summary": "Endüstriyel bir tesisin çatısına yerleştirilmiş büyük ölçekli çatı üstü güneş paneli sistemi ve enerji altyapı projesi.",
+   "type": "Enerji Altyapı Projesi (Çatı Üstü GES)",
+   "status": "Tamamlandı",
+   "region": "Doğu Anadolu Bölgesi",
+   "about": "Endüstriyel üretim tesisinin çatısına konumlandırılmış büyük ölçekli çatı üstü güneş paneli sistemi. Çatı üstü panel dizilimi, taşıyıcı çelik konstrüksiyon ve elektrik altyapısı bir bütün olarak planlanmıştır. Öz tüketimini destekleyen bu tipteki enerji projeleri Ocean İnşaat’ın uygulama deneyimini yansıtmaktadır.",
+   "role": "Enerji santrali kapsamında Ocean İnşaat; uygulama, çelik konstrüksiyon ve elektrik altyapı hizmetleri sunmuştur.",
+   "roleTags": [
+    "Uygulama",
+    "Ana Yüklenici"
+   ],
+   "relatedServices": [
+    "Endüstriyel Yapı",
+    "Çelik Konstrüksiyon",
+    "Elektrik Tesisatı",
+    "Proje Yönetimi"
+   ],
+   "images": [],
+   "alts": [
+    "Çatı üstüne kurulmuş büyük ölçekli güneş paneli tarlası",
+    "Güneş paneli projesi uygulama görüntüsü 1",
+    "Güneş paneli projesi uygulama görüntüsü 2",
+    "Güneş paneli projesi uygulama görüntüsü 3",
+    "Endüstriyel üretim fabrikasının dış cephe ve giriş görünümü",
+    "CNC üretim tesisi iç mekân imalat alanı ve altyapı görünümü",
+    "Alışveriş merkezi iç mekân tasarımından hol ve mağaza aksı"
+   ]
+  },
+  {
+   "slug": "cambasi-kayak-merkezi",
+   "title": "Kayak ve Sosyal Tesis Turizm Projesi",
+   "metaTitle": "Kayak ve Sosyal Tesis Turizm Projesi",
+   "metaDescription": "Ocean İnşaat’ın uygulama ve koordinasyon kapsamında görev aldığı kayak ve sosyal tesis turizm projesi.",
+   "category": "Turizm Yapısı",
+   "summary": "Yayla dokusuna uyumlu; telesiyej hattı, konaklama ve karşılama alanlarını bir arada barındıran kayak ve sosyal tesis alanı.",
+   "type": "Kayak ve Sosyal Tesis Alanı",
+   "status": "Tamamlandı",
+   "region": "Karadeniz Bölgesi",
+   "about": "Kayak turizmine hizmet eden yayla merkezinde konumlanan çok fonksiyonlu bir sosyal tesis alanıdır. Telesiyej hattı, konaklama ve karşılama alanları bir arada bulunmaktadır. Turizm projesi kapsamında Ocean İnşaat; uygulama, koordinasyon ve sosyal tesis inşaat hizmetleri sunmuştur.",
+   "role": "Turizm tesisi kapsamında Ocean İnşaat; uygulama, saha koordinasyonu ve sosyal tesis inşaat hizmetleri sunmuştur.",
+   "roleTags": [
+    "Uygulama",
+    "Koordinasyon",
+    "Proje Desteği",
+    "Ana Yüklenici"
+   ],
+   "relatedServices": [
+    "Turizm Yapısı",
+    "Sosyal Tesis Uygulamaları",
+    "Proje Yönetimi"
+   ],
+   "images": [
+    "/images/projects/cambasi-kayak-merkezi/cambasi-kayak-merkezi-01.jpeg",
+    "/images/projects/cambasi-kayak-merkezi/cambasi-kayak-merkezi-02.jpeg",
+    "/images/projects/cambasi-kayak-merkezi/cambasi-kayak-merkezi-03.jpeg",
+    "/images/projects/cambasi-kayak-merkezi/cambasi-kayak-merkezi-04.jpeg"
+   ],
+   "alts": [
+    "Yayla dokusuna uyumlu kayak merkezi tesislerinin havadan görünümü",
+    "Kayak merkezi projesinden görüntü 1",
+    "Kayak merkezi projesinden görüntü 2",
+    "Kayak merkezi projesinden görüntü 3",
+    "Kayak merkezi projesinden görüntü 4",
+    "Konut projesinin tamamlanmış dış cephe görünümü",
+    "Konut ve ticari kullanımlı yapının cadde üzerinden dış cephe görünümü",
+    "Çatı üstüne kurulmuş büyük ölçekli güneş paneli tarlası"
+   ]
+  },
+  {
+   "slug": "city-avm-projesi",
+   "title": "Alışveriş Merkezi Dijital Proje",
+   "metaTitle": "Alışveriş Merkezi Dijital Proje",
+   "metaDescription": "Ocean İnşaat portföyünde yer alan büyük ölçekli alışveriş merkezi dijital proje çalışmasını inceleyin.",
+   "category": "Ticari Yapı",
+   "summary": "Modern iç mekân kurgusu, geniş ortak alanları ve entegre otopark çözümüyle planlanmış büyük ölçekli alışveriş merkezi dijital proje çalışması.",
+   "type": "Alışveriş Merkezi İnşaat Projesi",
+   "status": "Proje Aşamasında",
+   "region": "Doğu Anadolu Bölgesi",
+   "about": "Kullanıcı deneyimini önceleyen ferah hol tasarımı, marka aksı ve entegre otopark çözümüyle planlanmış büyük ölçekli bir alışveriş merkezi dijital proje çalışmasıdır. Görseller, tasarım ve dijital sunum aşamasına aittir. Ocean İnşaat; bu ölçekteki ticari yapılarda tesisat, çelik konstrüksiyon ve iç mekân uygulamaları konularında taşeronluk ve koordinasyon hizmetleri sağlar.",
+   "role": "Ocean İnşaat bu projede taşeron uygulama, saha koordinasyonu ve proje destek hizmetleri sunmuştur.",
+   "roleTags": [
+    "Taşeronluk",
+    "Koordinasyon",
+    "Proje Desteği"
+   ],
+   "relatedServices": [
+    "Ticari Yapı",
+    "İç Mekân Uygulamaları",
+    "Mekanik Tesisat",
+    "Elektrik Tesisatı"
+   ],
+   "images": [],
+   "alts": [
+    "Alışveriş merkezi iç mekân tasarımından hol ve mağaza aksı",
+    "Alışveriş merkezi iç mekân görünümü 1",
+    "Alışveriş merkezi iç mekân görünümü 2",
+    "Alışveriş merkezi iç mekân görünümü 3",
+    "Alışveriş merkezi iç mekân görünümü 4",
+    "Endüstriyel üretim fabrikasının dış cephe ve giriş görünümü",
+    "Karma kullanımlı çok katlı projenin kaba yapı görünümü",
+    "Kurumsal hizmet binasının konferans ve toplantı salonu iç mekânı"
+   ]
+  },
+  {
+   "slug": "genpark-conax-fabrikasi",
+   "title": "Endüstriyel Üretim Fabrikası Projesi",
+   "metaTitle": "Endüstriyel Üretim Fabrikası Projesi",
+   "metaDescription": "Ocean İnşaat’ın taşeron uygulama ve koordinasyon kapsamında görev aldığı endüstriyel üretim fabrikası projesi.",
+   "category": "Endüstriyel Yapı · Ticari Yapı",
+   "summary": "Jeneratör ve elektrik panosu üretimine yönelik özel olarak tasarlanmış modern bir endüstriyel yapı projesi.",
+   "type": "Endüstriyel Üretim Tesisi İnşaatı",
+   "status": "Tamamlandı",
+   "region": "Doğu Anadolu Bölgesi",
+   "about": "Üretim akışı, showroom ve idari fonksiyonların bir arada çözüldüğü çok amaçlı bir endüstriyel yapıdır. Cephede kullanılan kontrastlı metal ve cam yüzeyler, üretim yapan markanın teknoloji odaklı kimliğini yansıtır. Ocean İnşaat; projede taşeron uygulama ve koordinasyon süreçlerinde görev almıştır.",
+   "role": "Ocean İnşaat bu projede taşeron uygulama, saha koordinasyonu ve proje destek hizmetleri sunmuştur.",
+   "roleTags": [
+    "Taşeronluk",
+    "Uygulama",
+    "Koordinasyon"
+   ],
+   "relatedServices": [
+    "Endüstriyel Yapı",
+    "Betonarme Uygulamalar",
+    "Dış Cephe",
+    "Çelik Konstrüksiyon",
+    "Proje Yönetimi"
+   ],
+   "images": [
+    "/images/projects/malatya-genpark-conax-fabrikasi/malatya-genpark-conax-fabrikasi-01.jpeg",
+    "/images/projects/malatya-genpark-conax-fabrikasi/malatya-genpark-conax-fabrikasi-02.jpeg",
+    "/images/projects/malatya-genpark-conax-fabrikasi/malatya-genpark-conax-fabrikasi-03.jpeg"
+   ],
+   "alts": [
+    "Endüstriyel üretim fabrikasının dış cephe ve giriş görünümü",
+    "Endüstriyel fabrika projesinden görüntü 1",
+    "Endüstriyel fabrika projesinden görüntü 2",
+    "Endüstriyel fabrika projesinden görüntü 3",
+    "Çatı üstüne kurulmuş büyük ölçekli güneş paneli tarlası",
+    "Alışveriş merkezi iç mekân tasarımından hol ve mağaza aksı",
+    "Karma kullanımlı çok katlı projenin kaba yapı görünümü"
+   ]
+  },
+  {
+   "slug": "kadikoy-merdivenkoy-okay-apartmani",
+   "title": "Karma Kullanım Konut Projesi",
+   "metaTitle": "Karma Kullanım Konut Projesi",
+   "metaDescription": "Ocean İnşaat’ın taşeron uygulama ve koordinasyon kapsamında görev aldığı konut ve ticari karma kullanım projesi.",
+   "category": "Konut",
+   "summary": "Kentsel dokuya uyumlu düşey vurgulu cephe çözümüyle konut ve ticari kullanımı bir arada barındıran çok katlı yapı projesi.",
+   "type": "Konut ve Ticari Karma Yapı",
+   "status": "Tamamlandı",
+   "region": "İstanbul",
+   "about": "Yoğun kentsel dokuda konumlanan bir karma kullanım projesi. Konut ve ticari kullanımı bütüncül olarak çözen çok katlı bir yapıdır. Ocean İnşaat; sıkışık yapı adasında güvenli kazı, uygulama ve saha koordinasyonu hizmetleri kapsamında görev almıştır. Galeride kazı aşamasından tamamlanmış cepheye kadar süreç yer almaktadır.",
+   "role": "Ocean İnşaat bu projede taşeron uygulama, saha koordinasyonu ve proje destek hizmetleri sunmuştur.",
+   "roleTags": [
+    "Taşeronluk",
+    "Uygulama",
+    "Koordinasyon"
+   ],
+   "relatedServices": [
+    "Anahtar Teslim İnşaat",
+    "Betonarme Uygulamalar",
+    "Dış Cephe",
+    "İç Mekân Uygulamaları"
+   ],
+   "images": [
+    "/images/projects/kadikoy-merdivenkoy-okay-apartmani/kadikoy-merdivenkoy-okay-apartmani-01.jpeg",
+    "/images/projects/kadikoy-merdivenkoy-okay-apartmani/kadikoy-merdivenkoy-okay-apartmani-02.jpeg",
+    "/images/projects/kadikoy-merdivenkoy-okay-apartmani/kadikoy-merdivenkoy-okay-apartmani-03.jpeg",
+    "/images/projects/kadikoy-merdivenkoy-okay-apartmani/kadikoy-merdivenkoy-okay-apartmani-04.jpeg",
+    "/images/projects/kadikoy-merdivenkoy-okay-apartmani/kadikoy-merdivenkoy-okay-apartmani-05.jpeg"
+   ],
+   "alts": [
+    "Konut ve ticari kullanımlı yapının cadde üzerinden dış cephe görünümü",
+    "Karma kullanım projesi görüntüsü 1",
+    "Karma kullanım projesi görüntüsü 2",
+    "Karma kullanım projesi görüntüsü 3",
+    "Karma kullanım projesi görüntüsü 4",
+    "Karma kullanım projesi görüntüsü 5",
+    "Konut projesinin tamamlanmış dış cephe görünümü",
+    "Karma kullanımlı çok katlı projenin kaba yapı görünümü",
+    "Çatı üstüne kurulmuş büyük ölçekli güneş paneli tarlası"
+   ]
+  },
+  {
+   "slug": "petrol-is-sendikasi-sube-binasi",
+   "title": "Kurumsal Hizmet Binası Projesi",
+   "metaTitle": "Kurumsal Hizmet Binası Projesi",
+   "metaDescription": "Ocean İnşaat’ın taşeron iç mekân uygulaması ve koordinasyon kapsamında görev aldığı kurumsal hizmet binası projesi.",
+   "category": "Kurumsal Yapı · Ticari Yapı",
+   "summary": "Konferans salonu ve iç mekân uygulamalarıyla öne çıkan çok fonksiyonlu kurumsal hizmet binası projesi.",
+   "type": "Kurumsal Hizmet Binası İnşaatı",
+   "status": "Tamamlandı",
+   "region": "Marmara Bölgesi",
+   "about": "Konferans salonu, çalışma alanları ve karşılama bölümleriyle üye ve ziyaretçilere hizmet veren çok fonksiyonlu bir kurumsal hizmet binasıdır. İç mekân çözümlerinde akustik konforu önceleyen malzeme seçimleri dikkat çeker. Ocean İnşaat; projede taşeron iç mekân uygulaması ve koordinasyon hizmetlerinde görev almıştır.",
+   "role": "Ocean İnşaat projede taşeron iç mekân uygulaması ve koordinasyon hizmetleri sunmuştur.",
+   "roleTags": [
+    "Taşeronluk",
+    "Uygulama",
+    "Koordinasyon"
+   ],
+   "relatedServices": [
+    "İç Mekân Uygulamaları",
+    "Anahtar Teslim İnşaat",
+    "Proje Yönetimi"
+   ],
+   "images": [],
+   "alts": [
+    "Kurumsal hizmet binasının konferans ve toplantı salonu iç mekânı",
+    "Kurumsal hizmet binası iç mekân görüntüsü 1",
+    "Kurumsal hizmet binası iç mekân görüntüsü 2",
+    "Kurumsal hizmet binası iç mekân görüntüsü 3",
+    "Endüstriyel üretim fabrikasının dış cephe ve giriş görünümü",
+    "Karma kullanımlı çok katlı projenin kaba yapı görünümü",
+    "Alışveriş merkezi iç mekân tasarımından hol ve mağaza aksı"
+   ]
+  },
+  {
+   "slug": "quattro-istanbul-serifali",
+   "title": "Yüksek Yapı Karma Kullanım Projesi",
+   "metaTitle": "Yüksek Yapı Karma Kullanım Projesi",
+   "metaDescription": "Ocean İnşaat’ın taşeron uygulama ve koordinasyon kapsamında görev aldığı karma kullanımlı yüksek yapı projesi.",
+   "category": "Konut · Ticari Yapı",
+   "summary": "Karma kullanım odaklı çok katlı yapının inşaat sürecine ait büyük ölçekli betonarme imalat kareleri.",
+   "type": "Karma Kullanımlı Konut ve Ticari Yüksek Yapı",
+   "status": "Uygulama Aşamasında",
+   "region": "İstanbul",
+   "about": "Karma kullanımlı çok katlı bir yüksek yapı projesi; inşaat süreç fotoğraflarıyla portföyümüzde yer almaktadır. Büyük ölçekli betonarme imalat, çevre yapı güvenliği ve iş programı disiplini açısından tipik bir karma kullanımlı yüksek yapı örneğidir. Ocean İnşaat; projede taşeron uygulama ve koordinasyon hizmetleri kapsamında görev almıştır.",
+   "role": "Ocean İnşaat projede taşeron uygulama ve saha koordinasyon hizmetleri sunmuştur.",
+   "roleTags": [
+    "Taşeronluk",
+    "Uygulama"
+   ],
+   "relatedServices": [
+    "Betonarme Uygulamalar",
+    "Anahtar Teslim İnşaat",
+    "Proje Yönetimi"
+   ],
+   "images": [
+    "/images/projects/quattro-istanbul-serifali/quattro-istanbul-serifali-01.jpeg",
+    "/images/projects/quattro-istanbul-serifali/quattro-istanbul-serifali-02.jpeg"
+   ],
+   "alts": [
+    "Karma kullanımlı çok katlı projenin kaba yapı görünümü",
+    "Karma kullanım projesinin inşaat karesi 1",
+    "Karma kullanım projesinin inşaat karesi 2",
+    "Konut projesinin tamamlanmış dış cephe görünümü",
+    "Konut ve ticari kullanımlı yapının cadde üzerinden dış cephe görünümü",
+    "Endüstriyel üretim fabrikasının dış cephe ve giriş görünümü"
+   ]
+  },
+  {
+   "slug": "sancaktepe-atak-apartmani-1",
+   "title": "Konut Projesi — Apartman 01",
+   "metaTitle": "Konut Projesi 01 — Apartman İnşaatı",
+   "metaDescription": "Ocean İnşaat’ın taşeron uygulama ve koordinasyon kapsamında görev aldığı çağdaş bir apartman inşaat projesi.",
+   "category": "Konut",
+   "summary": "Çağdaş cephe çizgileri ve düzenli plan çözümüyle bölgeye modern bir konut kimliği kazandıran apartman projesi.",
+   "type": "Apartman İnşaatı Projesi",
+   "status": "Tamamlandı",
+   "region": "İstanbul",
+   "about": "Çağdaş cephe çizgileri ve pratik plan çözümüyle bölgesindeki konut standardını yukarı taşıyan bir apartman projesi. Ocean İnşaat; kaba yapı, dış cephe ve iç mekân uygulamalarında saha koordinasyonu ve taşeronluk hizmetleri kapsamında görev almıştır. Galeride kaba yapıdan tamamlanmış cepheye kadar sürecin farklı adımları yer almaktadır.",
+   "role": "Ocean İnşaat bu projede taşeron uygulama, saha koordinasyonu ve proje destek hizmetleri sunmuştur.",
+   "roleTags": [
+    "Taşeronluk",
+    "Uygulama",
+    "Koordinasyon"
+   ],
+   "relatedServices": [
+    "Anahtar Teslim İnşaat",
+    "Betonarme Uygulamalar",
+    "Dış Cephe",
+    "İç Mekân Uygulamaları"
+   ],
+   "images": [
+    "/images/projects/sancaktepe-atak-apartmani-1/sancaktepe-atak-apartmani-1-01.jpeg",
+    "/images/projects/sancaktepe-atak-apartmani-1/sancaktepe-atak-apartmani-1-02.jpeg",
+    "/images/projects/sancaktepe-atak-apartmani-1/sancaktepe-atak-apartmani-1-03.jpeg",
+    "/images/projects/sancaktepe-atak-apartmani-1/sancaktepe-atak-apartmani-1-04.jpeg",
+    "/images/projects/sancaktepe-atak-apartmani-1/sancaktepe-atak-apartmani-1-05.jpeg"
+   ],
+   "alts": [
+    "Konut projesinin tamamlanmış dış cephe görünümü",
+    "Konut projesi uygulama karesi 1",
+    "Konut projesi uygulama karesi 2",
+    "Konut projesi uygulama karesi 3",
+    "Konut projesi uygulama karesi 4",
+    "Konut projesi uygulama karesi 5",
+    "Konut ve ticari kullanımlı yapının cadde üzerinden dış cephe görünümü",
+    "Karma kullanımlı çok katlı projenin kaba yapı görünümü",
+    "Çatı üstüne kurulmuş büyük ölçekli güneş paneli tarlası"
+   ]
+  },
+  {
+   "slug": "yg1-cnc-uretim-tesisi",
+   "title": "CNC Tesisi",
+   "metaTitle": "CNC Tesisi Projesi",
+   "metaDescription": "Ocean İnşaat’ın taşeron uygulama ve altyapı hizmetleri kapsamında görev aldığı CNC üretim tesisi projesi.",
+   "category": "Endüstriyel Yapı",
+   "summary": "CNC üretim faaliyetine yönelik özel olarak inşa edilmiş, yüksek tavanlı ve büyük açıklıklı endüstriyel üretim alanı.",
+   "type": "Hassas Talaşlı İmalat Üretim Tesisi",
+   "status": "Tamamlandı",
+   "region": "Ege Bölgesi",
+   "about": "Hassas talaşlı imalat üretimine yönelik özel olarak tasarlanmış endüstriyel bir üretim tesisidir. Yüksek tavan yüksekliği, endüstriyel havalandırma altyapısı ve büyük açıklıklı taşıyıcı sistem, tesisin CNC üretim akışına uygun çözümler sunar. Ocean İnşaat; projede taşeron uygulama ve mekanik/elektrik altyapı hizmetleri kapsamında görev almıştır.",
+   "role": "Ocean İnşaat projede taşeron uygulama, mekanik ve elektrik altyapı hizmetleri sunmuştur.",
+   "roleTags": [
+    "Taşeronluk",
+    "Uygulama"
+   ],
+   "relatedServices": [
+    "Endüstriyel Yapı",
+    "Betonarme Uygulamalar",
+    "Mekanik Tesisat",
+    "Elektrik Tesisatı",
+    "Çelik Konstrüksiyon"
+   ],
+   "images": [],
+   "alts": [
+    "CNC üretim tesisi iç mekân imalat alanı ve altyapı görünümü",
+    "CNC tesisi endüstriyel görüntü 1",
+    "CNC tesisi endüstriyel görüntü 2",
+    "CNC tesisi endüstriyel görüntü 3",
+    "Çatı üstüne kurulmuş büyük ölçekli güneş paneli tarlası",
+    "Endüstriyel üretim fabrikasının dış cephe ve giriş görünümü",
+    "Konut projesinin tamamlanmış dış cephe görünümü"
+   ]
+  }
+ ],
+ "posts": [
+  {
+   "slug": "anahtar-teslim-insaat-nedir",
+   "title": "Anahtar Teslim İnşaat Nedir? Kapsamı ve Süreci",
+   "metaTitle": "Anahtar Teslim İnşaat Nedir? Kapsamı ve Süreci",
+   "metaDescription": "Anahtar teslim inşaat; projeden ruhsata, kaba yapıdan teslime kadar tüm sürecin tek çatı altında yönetildiği bir modeldir.",
+   "category": "İnşaat Rehberi",
+   "date": "14 Nisan 2025",
+   "readTime": "8 dakika okuma",
+   "body": "Anahtar teslim inşaat, mimari–statik–mekanik–elektrik projelendirmeden başlayarak ruhsat işlemleri, kaba yapı, ince işler, cephe, peyzaj ve teslim aşamalarının tek bir sözleşme kapsamında yönetildiği bir hizmet modelidir. Mal sahibi tek bir muhataba karşı sorumludur ve süreç boyunca tüm risk müteahhit tarafında kalır.\n\n## Anahtar teslim inşaat neleri kapsar?\n\n- Arsa analizi ve fizibilite raporu\n- Mimari, statik ve tesisat projeleri\n- Ruhsat ve iskân süreçleri\n- Kaba yapı, ince işler, cephe ve peyzaj\n- Anahtar teslim ve satış sonrası destek\n\n## Avantajları nelerdir?\n\nTek muhatap üzerinden yürütülen süreç, hem koordinasyon karmaşasını ortadan kaldırır hem de bütçe ve süre disiplinini artırır. Deneyimli bir firmayla çalışılması hâlinde tedarik risklerinin büyük bölümü de müteahhit tarafında kalır.\n\n## Sözleşmede dikkat edilmesi gerekenler\n\n- Ayrıntılı teknik şartname\n- İş programı ve süre\n- Ödeme planı\n- Değişiklik yönetimi maddeleri\n- Garanti ve satış sonrası destek\nAnahtar teslim inşaatı diğer modellerden ayıran şey; sürecin başında bütçe, süre ve kalitenin birlikte tanımlanmasıdır.",
+   "tagsRaw": "anahtar teslim inşaatanahtar teslim müteahhitinşaat süreci"
+  },
+  {
+   "slug": "bina-guclendirme-neden-onemli",
+   "title": "Bina Güçlendirme Neden Önemli?",
+   "metaTitle": "Bina Güçlendirme Neden Önemli?",
+   "metaDescription": "Deprem yönetmeliğine uygun olmayan yapılar için güçlendirme; can güvenliği ve yapı ömrü için kritik bir yatırımdır.",
+   "category": "Yapı Güçlendirme",
+   "date": "18 Aralık 2024",
+   "readTime": "7 dakika okuma",
+   "body": "Türkiye Bina Deprem Yönetmeliği (TBDY 2018), mevcut yapılar için performans esaslı analiz gerektirir. Güçlendirme, yapının hedeflenen performans seviyesine ulaştırılmasını sağlar.\n\n## Güçlendirme yöntemleri\n\n- Betonarme mantolama\n- Karbon fiber (CFRP) uygulaması\n- Perde duvar eklemesi\n- Çelik kuşak ile güçlendirme\n- Temel altı zemin iyileştirme",
+   "tagsRaw": "bina güçlendirmekarbon fiber güçlendirmedeprem güçlendirme"
+  },
+  {
+   "slug": "dis-cephe-mantolama-avantajlari",
+   "title": "Dış Cephe Mantolamanın Avantajları",
+   "metaTitle": "Dış Cephe Mantolamanın Avantajları",
+   "metaDescription": "Mantolama; enerji tasarrufu, yoğuşma kontrolü ve konforlu iç mekân için bir dış cephe yatırımıdır.",
+   "category": "Dış Cephe",
+   "date": "28 Ocak 2025",
+   "readTime": "7 dakika okuma",
+   "body": "Mantolama; binanın dış cephesine uygulanan ısı yalıtım sistemi ile ısı transferini azaltır, ısınma-soğutma giderlerini düşürür ve iç mekân konforunu artırır.\n\n## Öne çıkan avantajlar\n\n- Enerji tüketiminde belirgin azalma\n- Yoğuşma ve küf oluşumunun önlenmesi\n- Cephe estetiğinde iyileşme\n- Binanın uzun ömürlü olması\n- Ses yalıtımına katkı",
+   "tagsRaw": "mantolamadış cephe mantolamaısı yalıtımı"
+  },
+  {
+   "slug": "ic-mekan-tadilat-rehberi",
+   "title": "İç Mekân Tadilat Rehberi",
+   "metaTitle": "İç Mekân Tadilat Rehberi",
+   "metaDescription": "Küçük dokunuşlardan komple yenilemeye kadar iç mekân tadilat sürecinde dikkat edilmesi gerekenler.",
+   "category": "Tadilat",
+   "date": "30 Kasım 2024",
+   "readTime": "6 dakika okuma",
+   "body": "İç mekân tadilatı; kırım-döküm, yeni tesisat, boya, zemin ve mobilya işlerinin bir arada planlanmasını gerektirir. Doğru sıralama ile hem süre kısalır hem de maliyet düşer.\n\n## Doğru sıralama nasıl olmalı?\n\n- Söküm ve kırım işleri\n- Yeni sıhhi tesisat ve elektrik\n- Sıva, alçıpan ve zemin şap\n- Boya, zemin kaplaması ve mutfak/banyo\n- Aydınlatma ve mobilya",
+   "tagsRaw": "iç mekân tadilatev tadilatımutfak yenileme"
+  },
+  {
+   "slug": "insaat-maliyetleri-2025",
+   "title": "2025 Yılı İnşaat Maliyetleri Nasıl Hesaplanır?",
+   "metaTitle": "2025 Yılı İnşaat Maliyetleri Nasıl Hesaplanır?",
+   "metaDescription": "İnşaat maliyeti; kaba yapı, ince işler, tesisat ve genel giderlerin toplamıdır. Kalem bazlı bir yaklaşım gereklidir.",
+   "category": "İnşaat Maliyetleri",
+   "date": "5 Ocak 2025",
+   "readTime": "8 dakika okuma",
+   "body": "İnşaat maliyeti; hafriyat, kaba yapı, ince işler, tesisat, cephe ve genel giderlerin toplamıdır. Her kalem için ayrı metraj çıkarılır ve piyasa birim fiyatlarıyla çarpılır.\n\n## Metrekare maliyeti neye göre değişir?\n\n- Taşıyıcı sistem seçimi\n- Malzeme kalitesi ve markası\n- İşçilik bölgesi ve mevsimi\n- Cephe ve iç mekân detay seviyesi\n- Ekstra teknolojik sistemler",
+   "tagsRaw": "inşaat maliyetiinşaat metrekare maliyeti2025 inşaat fiyatları"
+  },
+  {
+   "slug": "kat-karsiligi-insaat-sozlesmesi",
+   "title": "Kat Karşılığı İnşaat Sözleşmesinde Nelere Dikkat Edilmeli?",
+   "metaTitle": "Kat Karşılığı İnşaat Sözleşmesinde Nelere Dikkat Edilmeli?",
+   "metaDescription": "Kat karşılığı inşaat sözleşmesi, arsa sahibi ile müteahhidin karşılıklı yükümlülüklerini belirleyen kritik bir belgedir.",
+   "category": "Kat Karşılığı",
+   "date": "22 Mart 2025",
+   "readTime": "10 dakika okuma",
+   "body": "Kat karşılığı inşaat sözleşmeleri, Türk Borçlar Kanunu ve Tapu Kanunu düzenlemeleri gereği noter huzurunda düzenlenmelidir. Sözleşmenin şeffaf ve dengeli olması hem arsa sahibinin hem de müteahhidin haklarını güvence altına alır.\n\n## Sözleşmede olması gereken maddeler\n\n- Pay dağılım oranı ve daire seçimi\n- İnşaat süresi ve gecikme cezası\n- Teknik şartname ve malzeme kalitesi\n- Vergi ve harç yükümlülüğü\n- Fesih koşulları\n\n## Arsa sahibi için önemli detaylar\n\nArsa sahibi, imar hakkı ve pay dağılımının kendi lehine dengelendiğinden emin olmalıdır. Ayrıca noter onaylı sözleşme dışında sözlü anlaşmalar geçerlilik kazanmaz.\n\n## Müteahhidin gözünden bakılması gerekenler\n\n- Ruhsat ve mimari onay riskleri\n- Malzeme fiyat artışlarına karşı formüller\n- İş programında mücbir sebep tanımı\n- Teslim sonrası garanti kapsamı",
+   "tagsRaw": "kat karşılığı sözleşmearsa payı karşılığı inşaatmüteahhit sözleşmesi"
+  },
+  {
+   "slug": "kentsel-donusum-nasil-yapilir",
+   "title": "Kentsel Dönüşüm Süreci Nasıl İşler?",
+   "metaTitle": "Kentsel Dönüşüm Süreci Nasıl İşler?",
+   "metaDescription": "Riskli yapı tespitinden yeni binanın teslimine kadar kentsel dönüşüm sürecinin tüm aşamaları.",
+   "category": "Kentsel Dönüşüm",
+   "date": "11 Şubat 2025",
+   "readTime": "9 dakika okuma",
+   "body": "Kentsel dönüşüm, 6306 sayılı kanun kapsamında yürütülen bir süreçtir. Riskli yapı raporunun alınmasıyla başlar; kira yardımı, tahliye, yıkım ve yeni bina inşasıyla devam eder.\n\n## Süreç adım adım\n\n- Lisanslı kuruluştan riskli yapı raporu\n- Bakanlık onayı ve tebligat\n- Kira yardımı başvurusu\n- Yıkım ve enkaz kaldırma\n- Yeni proje ve ruhsat\n- İnşaat ve iskân\nKentsel dönüşüm yalnızca bir yapının yenilenmesi değil; can güvenliği ve şehir dokusunun geleceğidir.",
+   "tagsRaw": "kentsel dönüşümriskli yapı raporukentsel dönüşüm süreci"
+  },
+  {
+   "slug": "mimari-projelendirme-adimlari",
+   "title": "Mimari Projelendirme Adımları",
+   "metaTitle": "Mimari Projelendirme Adımları",
+   "metaDescription": "Konsept aşamasından uygulama projesine kadar mimari projelendirme süreci ve teslim adımları.",
+   "category": "Mimari",
+   "date": "5 Kasım 2024",
+   "readTime": "8 dakika okuma",
+   "body": "Mimari projelendirme; ihtiyaç analizi, konsept, avan proje, uygulama projesi ve detay projesi aşamalarını içerir. Her aşama, sonraki fazın girdilerini oluşturur.\n\n## Süreç adım adım\n\n- İhtiyaç programı\n- Konsept tasarım\n- Avan proje\n- Uygulama projesi\n- Detay ve imalat çizimleri",
+   "tagsRaw": "mimari projeuygulama projesiavan proje"
+  }
+ ],
+ "konum": [
+  {
+   "slug": "gebze-insaat-firmasi",
+   "title": "Gebze İnşaat Firması",
+   "metaTitle": "Gebze İnşaat Firması",
+   "metaDescription": "Endüstriyel yapı, lojistik depo ve konut projeleri için özel çözümler.",
+   "eyebrow": "Kocaeli · Gebze",
+   "tagline": "Endüstriyel yapı, lojistik depo ve konut projeleri için özel çözümler.",
+   "heading": "Ocean İnşaat · Kocaeli Gebze",
+   "intro": "Gebze’de sanayi ve konut projelerinde deneyimli ekiplerimizle üretim tesisi, lojistik depo, ofis ve konut projeleri yürütmekteyiz. Sanayi bölgesi uyumu ve hızlı devreye alma odaklı iş programlarımızla sanayi yatırımcılarına güvenilir bir çözüm ortağıyız.",
+   "focus": [
+    "Fabrika İnşaatı",
+    "Çelik Konstrüksiyon",
+    "Endüstriyel Altyapı",
+    "Konut İnşaatı"
+   ],
+   "reasons": [
+    {
+     "title": "Sanayi Bölgesi Deneyimi",
+     "desc": "Sanayi bölgesi projelerinde altyapı ve tesisat çözümlerinde yetkinlik."
+    },
+    {
+     "title": "Lojistik Depo",
+     "desc": "Yüksek dikey depolama sistemleri için hassas endüstriyel zeminler."
+    }
+   ],
+   "faqs": [
+    {
+     "q": "Üretim tesisi inşa ediyor musunuz?",
+     "a": "Evet, farklı sektörler için üretim tesisi ve lojistik depo projelerimiz bulunmaktadır."
+    }
+   ]
+  },
+  {
+   "slug": "istanbul-insaat-firmasi",
+   "title": "İstanbul İnşaat Firması",
+   "metaTitle": "İstanbul İnşaat Firması",
+   "metaDescription": "İstanbul’un yoğun kentsel dokusu, deprem riski ve yüksek imar hakları için özel çözümler.",
+   "eyebrow": "İstanbul · Genel",
+   "tagline": "İstanbul’un yoğun kentsel dokusu, deprem riski ve yüksek imar hakları için özel çözümler.",
+   "heading": "Ocean İnşaat · İstanbul",
+   "intro": "Ocean İnşaat, İstanbul’un Anadolu ve Avrupa yakalarında konut, ticari ve renovasyon projelerini uçtan uca yönetir. Deneyimli ekipleri; sıkışık kazı, kentsel dönüşüm ve prestijli konut projelerinde saha koordinasyonu, taşeronluk ve uygulama hizmetleri sunar.",
+   "focus": [
+    "Anahtar Teslim İnşaat",
+    "Kat Karşılığı İnşaat",
+    "Bina Güçlendirme",
+    "Dış Cephe Uygulamaları",
+    "Kentsel Dönüşüm"
+   ],
+   "reasons": [
+    {
+     "title": "Yoğun Kentsel Doku",
+     "desc": "Ankrajlı iksa, komşu yapı monitörleri ve gece–gündüz denetim ile güvenli kazı ve inşaat."
+    },
+    {
+     "title": "Yüksek İmar Hakları",
+     "desc": "Merkez ilçelerde yüksek imar hakkını en verimli şekilde kullanarak konforlu yaşam alanları."
+    },
+    {
+     "title": "Deprem Yönetmeliğine Uyum",
+     "desc": "TBDY 2018 uyumlu tasarım ve mevcut yapılar için güçlendirme çözümleri."
+    }
+   ],
+   "faqs": [
+    {
+     "q": "İstanbul’da hangi bölgelerde çalışıyorsunuz?",
+     "a": "İstanbul’un Anadolu ve Avrupa yakasında ilçe bağımsız hizmet vermekteyiz."
+    },
+    {
+     "q": "Kentsel dönüşüm süreçlerini yönetiyor musunuz?",
+     "a": "Evet; risk raporundan yeniden inşaya kadar tüm süreç Ocean İnşaat tarafından yönetilir."
+    }
+   ]
+  },
+  {
+   "slug": "kocaeli-insaat-firmasi",
+   "title": "Kocaeli İnşaat Firması",
+   "metaTitle": "Kocaeli İnşaat Firması",
+   "metaDescription": "Sanayi ve konut projeleri için Kocaeli’ye özel çözümler ve deneyimli ekipler.",
+   "eyebrow": "Kocaeli · Genel",
+   "tagline": "Sanayi ve konut projeleri için Kocaeli’ye özel çözümler ve deneyimli ekipler.",
+   "heading": "Ocean İnşaat · Kocaeli",
+   "intro": "Ocean İnşaat; Kocaeli’de fabrika, üretim tesisi, konut ve kentsel dönüşüm projelerinde uygulama ve taşeronluk hizmetleri sunar. Bölgeye özgü zemin koşulları ve organize sanayi bölgelerine yönelik altyapı deneyimi ile yatırımcılar için güvenilir bir çözüm ortağıdır.",
+   "focus": [
+    "Fabrika İnşaatı",
+    "Çelik Konstrüksiyon",
+    "Endüstriyel Altyapı",
+    "Konut İnşaatı",
+    "Kentsel Dönüşüm"
+   ],
+   "reasons": [
+    {
+     "title": "Endüstriyel Deneyim",
+     "desc": "Organize sanayi bölgelerinde tamamlanmış üretim tesisi projeleri."
+    },
+    {
+     "title": "OSB Uyumu",
+     "desc": "Organize sanayi bölgelerindeki tüm yönetmelik ve altyapı gerekliliklerine hâkim ekipler."
+    },
+    {
+     "title": "Hızlı Devreye Alma",
+     "desc": "Çelik konstrüksiyon ile kısa sürede işletmeye alınan büyük açıklıklı yapılar."
+    }
+   ],
+   "faqs": [
+    {
+     "q": "Organize sanayi bölgelerinde proje yürütüyor musunuz?",
+     "a": "Evet, farklı organize sanayi bölgelerinde üretim tesisi ve lojistik depo projelerimiz mevcuttur."
+    },
+    {
+     "q": "Konut projeleri de yapıyor musunuz?",
+     "a": "Evet; kentsel dönüşüm ve konut projelerinde uygulama, taşeronluk ve koordinasyon hizmetleri sunuyoruz."
+    }
+   ]
+  },
+  {
+   "slug": "pendik-insaat-firmasi",
+   "title": "Pendik İnşaat Firması",
+   "metaTitle": "Pendik İnşaat Firması",
+   "metaDescription": "Konut, kentsel dönüşüm ve cephe yenileme projeleri için deneyimli ekipler.",
+   "eyebrow": "İstanbul · Pendik",
+   "tagline": "Konut, kentsel dönüşüm ve cephe yenileme projeleri için deneyimli ekipler.",
+   "heading": "Ocean İnşaat · İstanbul Pendik",
+   "intro": "Ocean İnşaat, Pendik ilçesinde bulunan siteler, apartmanlar ve kentsel dönüşüm parselleri için özel çözümler sunmaktadır. Site yönetimleri ile birlikte yürütülen cephe yenileme projeleri en yaygın hizmetlerimizden biridir.",
+   "focus": [
+    "Cephe Yenileme",
+    "Mantolama",
+    "Kentsel Dönüşüm",
+    "Kat Karşılığı İnşaat",
+    "Bina Güçlendirme"
+   ],
+   "reasons": [
+    {
+     "title": "Pendik Deneyimi",
+     "desc": "Farklı mahallelerde tamamlanmış çok sayıda cephe ve mantolama projesi."
+    },
+    {
+     "title": "Site Yönetimi Uyumu",
+     "desc": "Site yönetimleri ile şeffaf işbirliği ve düzenli raporlama."
+    },
+    {
+     "title": "Hızlı Teslim",
+     "desc": "Blok bazlı iş programı ile kısa sürede tamamlanan uygulamalar."
+    }
+   ],
+   "faqs": [
+    {
+     "q": "Pendik’te hangi hizmetler öne çıkıyor?",
+     "a": "Cephe yenileme, mantolama, kentsel dönüşüm ve kat karşılığı inşaat en yaygın taleplerdir."
+    }
+   ]
+  },
+  {
+   "slug": "sancaktepe-insaat-firmasi",
+   "title": "Sancaktepe İnşaat Firması",
+   "metaTitle": "Sancaktepe İnşaat Firması",
+   "metaDescription": "Villa, konut ve kat karşılığı projeleri için güvenilir çözüm ortağı.",
+   "eyebrow": "İstanbul · Sancaktepe",
+   "tagline": "Villa, konut ve kat karşılığı projeleri için güvenilir çözüm ortağı.",
+   "heading": "Ocean İnşaat · İstanbul Sancaktepe",
+   "intro": "Sancaktepe’nin gelişen dokusunda villa, müstakil konut ve kat karşılığı projeleri için Ocean İnşaat deneyimli ekipleri ile çalışmaktadır. Ferah parseller üzerinde tasarlanan projelerde arazi topoğrafyası ve manzara açısı özenle değerlendirilir.",
+   "focus": [
+    "Villa İnşaatı",
+    "Kat Karşılığı İnşaat",
+    "Konut İnşaatı",
+    "Peyzaj",
+    "Anahtar Teslim İnşaat"
+   ],
+   "reasons": [
+    {
+     "title": "Villa Uzmanlığı",
+     "desc": "Kişiye özel villa projelerinde konsept, uygulama ve peyzaj bütünlüğü."
+    },
+    {
+     "title": "Arazi Analizi",
+     "desc": "Eğimli parsellere uygun statik ve mimari çözümler."
+    }
+   ],
+   "faqs": [
+    {
+     "q": "Villa inşa ediyor musunuz?",
+     "a": "Evet, tekli ve çoklu villa projelerimiz mevcuttur."
+    }
+   ]
+  },
+  {
+   "slug": "umraniye-insaat-firmasi",
+   "title": "Ümraniye İnşaat Firması",
+   "metaTitle": "Ümraniye İnşaat Firması",
+   "metaDescription": "Ofis, ticari yapı ve kentsel dönüşüm projeleri için deneyimli ekipler.",
+   "eyebrow": "İstanbul · Ümraniye",
+   "tagline": "Ofis, ticari yapı ve kentsel dönüşüm projeleri için deneyimli ekipler.",
+   "heading": "Ocean İnşaat · İstanbul Ümraniye",
+   "intro": "Ümraniye, İstanbul’un Anadolu yakasında finans ve teknoloji şirketlerinin yoğunlaştığı bir merkezdir. Ocean İnşaat bölgede ofis, ticari yapı ve kentsel dönüşüm projelerinde uygulama ve koordinasyon hizmetleri sunar.",
+   "focus": [
+    "Ticari Yapı İnşaatı",
+    "Ofis Tadilatı",
+    "Kentsel Dönüşüm",
+    "Anahtar Teslim İnşaat"
+   ],
+   "reasons": [
+    {
+     "title": "Ticari Deneyim",
+     "desc": "Teknoloji ve finans şirketlerine yönelik büyük ölçekli ticari yapılar."
+    },
+    {
+     "title": "Karma Kullanım",
+     "desc": "Konut ve ticari fonksiyonların bir arada çözüldüğü karma projeler."
+    }
+   ],
+   "faqs": [
+    {
+     "q": "Ofis binası inşa ediyor musunuz?",
+     "a": "Evet; ofis ve karma kullanım projeleri geliştirdik."
+    }
+   ]
+  }
+ ],
+ "pages": {
+  "blog": {
+   "slug": "blog",
+   "title": "İnşaat, Mimari ve Süreç Rehberleri",
+   "metaTitle": "Blog",
+   "metaDescription": "İnşaat rehberleri, kat karşılığı süreçleri, kentsel dönüşüm, dış cephe ve yalıtım konularında güncel içerikler.",
+   "text": "# İnşaat, Mimari ve Süreç Rehberleri\nOcean İnşaat teknik ekibi tarafından hazırlanan içerikler ile projelerinizi daha iyi planlayın.\nİnşaat Rehberi · 14 Nisan 2025\n## Anahtar Teslim İnşaat Nedir? Kapsamı ve Süreci\nAnahtar teslim inşaat; projeden ruhsata, kaba yapıdan teslime kadar tüm sürecin tek çatı altında yönetildiği bir modeldir.\nYazıyı oku →\nİnşaat RehberiKat KarşılığıKentsel DönüşümDış CepheTadilatYapı GüçlendirmeMimariYalıtımİnşaat MaliyetleriMevzuat ve Süreçler\nKat Karşılığı · 10 dk\n### Kat Karşılığı İnşaat Sözleşmesinde Nelere Dikkat Edilmeli?\nKat karşılığı inşaat sözleşmesi, arsa sahibi ile müteahhidin karşılıklı yükümlülüklerini belirleyen kritik bir belgedir.\nKentsel Dönüşüm · 9 dk\n### Kentsel Dönüşüm Süreci Nasıl İşler?\nRiskli yapı tespitinden yeni binanın teslimine kadar kentsel dönüşüm sürecinin tüm aşamaları.\nDış Cephe · 7 dk\n### Dış Cephe Mantolamanın Avantajları\nMantolama; enerji tasarrufu, yoğuşma kontrolü ve konforlu iç mekân için bir dış cephe yatırımıdır.\nİnşaat Maliyetleri · 8 dk\n### 2025 Yılı İnşaat Maliyetleri Nasıl Hesaplanır?\nİnşaat maliyeti; kaba yapı, ince işler, tesisat ve genel giderlerin toplamıdır. Kalem bazlı bir yaklaşım gereklidir.\nYapı Güçlendirme · 7 dk\n### Bina Güçlendirme Neden Önemli?\nDeprem yönetmeliğine uygun olmayan yapılar için güçlendirme; can güvenliği ve yapı ömrü için kritik bir yatırımdır.\nTadilat · 6 dk\n### İç Mekân Tadilat Rehberi\nKüçük dokunuşlardan komple yenilemeye kadar iç mekân tadilat sürecinde dikkat edilmesi gerekenler.\nMimari · 8 dk\n### Mimari Projelendirme Adımları\nKonsept aşamasından uygulama projesine kadar mimari projelendirme süreci ve teslim adımları.\nBlog\n## Blogumuzu Takipte Kalın\nYeni içerikler ve rehberler için Ocean İnşaat’ı takip edin.\nÜcretsiz Keşif Talep Et\nWhatsApp'tan İletişime Geç"
+  },
+  "cerez-politikasi": {
+   "slug": "cerez-politikasi",
+   "title": "Çerez Politikası",
+   "metaTitle": "Çerez Politikası",
+   "metaDescription": "Ocean İnşaat internet sitesinde kullanılan çerezler hakkında bilgilendirme.",
+   "text": "# Çerez Politikası\nSitemizde kullanılan çerezler ve bunların işlevleri hakkında bilgi alın.\n## 1. Çerez Nedir?\nÇerezler; internet sitesini ziyaret ettiğinizde tarayıcınıza yerleştirilen küçük metin dosyalarıdır. Bu dosyalar, siteyi kullanım deneyiminizi iyileştirmek için kullanılır.\n## 2. Kullanılan Çerez Türleri\nSitemizde zorunlu çerezler, performans çerezleri ve tercih çerezleri kullanılabilir. Zorunlu çerezler sitenin çalışması için gereklidir ve devre dışı bırakılamaz.\n## 3. Çerezlerin Yönetimi\nTarayıcı ayarlarınızdan çerezleri kabul edebilir, engelleyebilir veya silebilirsiniz. Çerezleri engellemeniz halinde site fonksiyonları kısıtlanabilir.\n## 4. Üçüncü Taraf Çerezler\nGoogle Analytics, Google Maps ve benzer üçüncü taraf hizmetlerin kullandığı çerezler için ilgili hizmet sağlayıcıların çerez politikaları geçerlidir.\nBu metin genel bilgilendirme amaçlıdır. Yasal bağlayıcı bir metin için lütfen doğrudan Ocean İnşaat ile iletişime geçin."
+  },
+  "gizlilik-politikasi": {
+   "slug": "gizlilik-politikasi",
+   "title": "Gizlilik Politikası",
+   "metaTitle": "Gizlilik Politikası",
+   "metaDescription": "Ocean İnşaat gizlilik politikası ve kullanıcı verilerinin işlenmesine ilişkin ilkeler.",
+   "text": "# Gizlilik Politikası\nOcean İnşaat, kullanıcıların gizliliğine ve kişisel verilerinin korunmasına önem verir.\n## 1. Amaç\nİşbu Gizlilik Politikası; Ocean İnşaat tarafından işletilen internet sitesini ziyaret eden kullanıcıların kişisel verilerinin hangi amaçlarla ve nasıl işlendiğini açıklamak amacıyla hazırlanmıştır.\n## 2. Toplanan Bilgiler\nKullanıcıların iletişim formu aracılığıyla paylaştığı ad, soyad, e-posta, telefon, proje türü ve mesaj gibi bilgiler ile site kullanımı sırasında oluşan çerez ve teknik veriler toplanabilir.\n## 3. İşleme Amaçları\nToplanan bilgiler; talep edilen hizmetlerin sunulması, teklif hazırlanması, iletişim taleplerinin karşılanması, hizmet kalitesinin artırılması ve yasal yükümlülüklerin yerine getirilmesi amaçlarıyla işlenir.\n## 4. Üçüncü Kişilerle Paylaşım\nKişisel veriler; yalnızca yasal zorunluluk hallerinde veya hizmetin sunulması için gerekli olduğunda, ilgili mevzuat çerçevesinde üçüncü kişilerle paylaşılabilir.\n## 5. Kullanıcı Hakları\nKullanıcılar; kişisel verileriyle ilgili KVKK'nın 11. maddesinde belirtilen hakları info@oceaninsaat.com.tr adresine yazılı olarak başvurarak kullanabilirler.\n## 6. Güncellemeler\nOcean İnşaat, işbu Gizlilik Politikasını her zaman güncelleyebilir. Güncel metne her zaman bu sayfadan ulaşılabilir.\nBu metin genel bilgilendirme amaçlıdır. Yasal bağlayıcı bir metin için lütfen doğrudan Ocean İnşaat ile iletişime geçin."
+  },
+  "hizmetler": {
+   "slug": "hizmetler",
+   "title": "Kavramdan Teslime Kadar Her Detay",
+   "metaTitle": "Hizmetlerimiz",
+   "metaDescription": "Ocean İnşaat hizmet kataloğu: anahtar teslim inşaat, kat karşılığı, dış cephe, mantolama, tadilat, bina güçlendirme, kentsel dönüşüm ve daha fazlası.",
+   "text": "# Kavramdan Teslime Kadar Her Detay\nAnahtar teslim inşaat, kat karşılığı, dış cephe, tadilat, güçlendirme, kentsel dönüşüm ve proje danışmanlığı hizmetleri tek çatı altında.\nİnşaat\n## İnşaat\n8 · başlık\n### Anahtar Teslim İnşaat\nKonsept, projelendirme, ruhsat, kaba yapı, ince işler ve teslim sürecinin tek çatı altında yönetildiği eksiksiz bir inşaat hizmetidir.\n### Kat Karşılığı İnşaat\nArsa sahibi ile müteahhit arasında pay esaslı yürütülen, tarafların hak ve yükümlülüklerinin sözleşmeyle güvence altına alındığı inşaat modelidir.\n### Konut ve Apartman İnşaatı\nYatay ve düşey mimari kurgudan enerji verimliliğine kadar konforu tanımlayan tüm başlıkları kapsayan konut projeleri.\n### Villa İnşaatı\nArazi topoğrafyasına, aile yaşam biçimine ve tasarım tercihlerinize göre şekillenen özgün villa projeleri.\n### Ticari Yapı İnşaatı\nMağaza, ofis, plaza ve karma kullanımlı ticari yapıların projelendirme ve inşaat süreçleri.\n### Fabrika ve Endüstriyel Yapılar\nÜretim süreçlerine, ekipman yerleşimine ve lojistik ihtiyaçlara göre kurgulanmış endüstriyel yapı çözümleri.\n### Betonarme Yapılar\nYönetmeliklere uygun betonarme taşıyıcı sistemli konut, ticari ve endüstriyel yapılar.\n### Çelik Konstrüksiyon\nFabrika, depo, ticari yapı ve prefabrik çözümler için çelik konstrüksiyon üretim ve montajı.\nCephe ve Yalıtım\n## Cephe ve Yalıtım\n8 · başlık\n### Dış Cephe Kaplama\nKompozit, seramik, doğal taş, alüminyum ve cam kaplamalarla üretilen kalıcı ve estetik dış cephe uygulamaları.\n### Dış Cephe Yenileme\nEskimiş, çatlamış veya nem tutmuş cephelerin sökülerek yeniden yalıtımlı ve estetik bir yüzey ile giydirilmesi.\n### Mantolama ve Isı Yalıtımı\nDış cepheye uygulanan yalıtım levhaları ile yapının enerji verimliliğinin ve konforunun artırılması.\n### Isı Yalıtımı\nCephe, çatı, döşeme ve tesisat üzerinde uygulanan çok katmanlı ısı yalıtımı çözümleri.\n### Su Yalıtımı\nTemel, çatı, balkon, teras, ıslak hacim ve perde duvarların modern su yalıtım sistemleri ile korunması.\n### Ses Yalıtımı\nDuvar, döşeme ve tavan üzerine uygulanan akustik levha ve süngerler ile ses geçişinin kontrol altına alınması.\n### Çatı Yapımı\nAhşap, çelik veya beton karkas üzerine kiremit, sandviç panel veya membran çözümleri ile üretilen çatı sistemleri.\n### İç ve Dış Cephe Boya\nSilikon esaslı dış cephe boyaları ve düşük VOC değerli iç mekân boyaları ile profesyonel boya uygulamaları.\nİç Mekân\n## İç Mekân\n8 · başlık\n### İç Mekân Tadilatı\nDuvar, döşeme, tavan, tesisat ve dekorasyon başlıklarını kapsayan bütüncül iç mekân tadilatı.\n### Ev Tadilatı\nMutfak, banyo, oda ve genel alanları kapsayan uçtan uca ev tadilat hizmetleri.\n### Ofis Tadilatı\nAçık ofis, toplantı odaları, kabinler ve sosyal alanların bütüncül olarak yenilendiği ofis tasarım ve uygulama hizmeti.\n### Mağaza Tadilatı\nPerakende mağazalar için hızlı, kaliteli ve marka standartlarına uygun tadilat uygulamaları.\n### Otel Tadilatı\nOda, lobi, restoran, spa ve genel alanlar için bütüncül otel yenileme uygulamaları.\n### Alçı ve Sıva Uygulamaları\nDuvar ve tavan sıvası, saten alçı, alçıpan bölme ve dekoratif alçı işleri.\n### Seramik ve Fayans\nMutfak, banyo, balkon, teras ve mağaza gibi alanlarda modern seramik ve porselen uygulamaları.\n### Parke ve Zemin Kaplama\nLaminat, ahşap, LVT ve epoksi zemin uygulamaları ile modern mekânlar.\nTesisat ve Altyapı\n## Tesisat ve Altyapı\n6 · başlık\n### Elektrik Tesisatı\nYönetmeliklere uygun kuvvetli ve zayıf akım elektrik tesisatı projeleri.\n### Mekanik Tesisat\nDoğalgaz, kombi, klima, VRF ve havalandırma sistemleri için mekanik tesisat uygulamaları.\n### Sıhhi Tesisat\nYapıya özel çıkarılan projeye uygun sıhhi tesisat imalatı.\n### Hafriyat ve Kazı Çalışmaları\nİş makineleri ile yürütülen hafriyat, iksa, dolgu ve sıkıştırma işlemleri.\n### Altyapı Çalışmaları\nYol, kanalizasyon, içme suyu, elektrik ve iletişim altyapı çalışmaları.\n### Peyzaj ve Çevre Düzenlemesi\nBahçe, teras, yürüyüş yolu ve ortak alanlar için peyzaj tasarım ve uygulama hizmetleri.\nYenileme ve Güçlendirme\n## Yenileme ve Güçlendirme\n4 · başlık\n### Çatı Tadilatı\nMevcut çatı örtüsünün sökülmesi, yalıtımın yenilenmesi ve modern kaplama sistemleri ile yeniden inşası.\n### Bina Güçlendirme\nDeprem yönetmeliğine göre yapılan performans analizi ve statik güçlendirme uygulamaları.\n### Kentsel Dönüşüm\nRiskli yapı tespiti, yıkım, projelendirme ve yeniden inşa süreçlerinin arsa sahipleri adına yönetimi.\n### Restorasyon ve Yenileme\nTarihi yapılar ve özgün mimari dokular için koruma amaçlı restorasyon uygulamaları.\nProje ve Danışmanlık\n## Proje ve Danışmanlık\n3 · başlık\n### Mimari Projelendirme\nMimari konsept, avan proje, kesin proje ve uygulama projesi süreçleri.\n### Statik Projelendirme\nBetonarme ve çelik yapılar için deprem yönetmeliği uyumlu statik projelendirme hizmetleri.\n### İnşaat Danışmanlığı\nYatırımcı, arsa sahibi ve kurumsal müşteriler için proje yönetim ve danışmanlık hizmetleri.\nHizmetler\n## Aradığınız Hizmete Emin Değil misiniz?\nİnşaat, renovasyon, dış cephe veya kat karşılığı projeniz için bizimle iletişime geçin. Teknik ekibimiz ihtiyaçlarınızı değerlendirerek size özel bir çalışma planı oluştursun.\nÜcretsiz Keşif Talep Et\nWhatsApp'tan İletişime Geç"
+  },
+  "home": {
+   "slug": "home",
+   "title": "Güvenilir Yapılar, Güçlü İş Ortaklıkları",
+   "metaTitle": "Ocean İnşaat | İnşaat, Taşeronluk ve Proje Koordinasyonu",
+   "metaDescription": "Ocean İnşaat; konut, enerji ve turizm projelerinde uygulama, taşeronluk, aracılık ve proje koordinasyonu hizmetleri sunar.",
+   "text": "# Güvenilir Yapılar, Güçlü İş Ortaklıkları\nKonut, enerji ve turizm projelerinde; uygulama, koordinasyon, taşeronluk ve proje destek hizmetleri sunuyoruz.\nProjelerimizi İnceleyin\nTeklif Talep Edin\n10+\nYıllık Deneyim\n50+\nTamamlanan Proje\n30+\nİş Ortağı\nKeşfetmek için kaydırın\nHizmetler\n## Yapının Her Detayı İçin Tek Bir Muhatap\nKaba yapıdan ince işlere, dış cepheden altyapıya kadar geniş bir hizmet başlığı Ocean İnşaat çatısı altında yönetilir.\nTüm Hizmetleri Görüntüle\n01\n### Anahtar Teslim İnşaat\nKonsept, projelendirme, ruhsat, kaba yapı, ince işler ve teslim sürecinin tek çatı altında yönetildiği eksiksiz bir inşaat hizmetidir.\n02\n### Kat Karşılığı İnşaat\nArsa sahibi ile müteahhit arasında pay esaslı yürütülen, tarafların hak ve yükümlülüklerinin sözleşmeyle güvence altına alındığı inşaat modelidir.\n03\n### Konut İnşaatı\nYatay ve düşey mimari kurgudan enerji verimliliğine kadar konforu tanımlayan tüm başlıkları kapsayan konut projeleri.\n04\n### Villa İnşaatı\nArazi topoğrafyasına, aile yaşam biçimine ve tasarım tercihlerinize göre şekillenen özgün villa projeleri.\n05\n### Ticari Yapı\nMağaza, ofis, plaza ve karma kullanımlı ticari yapıların projelendirme ve inşaat süreçleri.\n06\n### Fabrika İnşaatı\nÜretim süreçlerine, ekipman yerleşimine ve lojistik ihtiyaçlara göre kurgulanmış endüstriyel yapı çözümleri.\n07\n### Dış Cephe Kaplama\nKompozit, seramik, doğal taş, alüminyum ve cam kaplamalarla üretilen kalıcı ve estetik dış cephe uygulamaları.\n08\n### Dış Cephe Yenileme\nEskimiş, çatlamış veya nem tutmuş cephelerin sökülerek yeniden yalıtımlı ve estetik bir yüzey ile giydirilmesi.\n09\n### Mantolama\nDış cepheye uygulanan yalıtım levhaları ile yapının enerji verimliliğinin ve konforunun artırılması.\n10\n### Isı Yalıtımı\nCephe, çatı, döşeme ve tesisat üzerinde uygulanan çok katmanlı ısı yalıtımı çözümleri.\n11\n### Su Yalıtımı\nTemel, çatı, balkon, teras, ıslak hacim ve perde duvarların modern su yalıtım sistemleri ile korunması.\n12\n### Ses Yalıtımı\nDuvar, döşeme ve tavan üzerine uygulanan akustik levha ve süngerler ile ses geçişinin kontrol altına alınması.\nÖncesi & Sonrası\n## Dönüşümü Kendiniz Karşılaştırın\nCephe yenilemesinden iç mekân tasarımına ve apartman giriş uygulamalarına kadar tamamladığımız işlerin öncesi ve sonrası karelerini karşılaştırın.\nDış Cephe Yenileme\nİç Mekân Tasarımı\nApartman Girişi\nÖncesi\nSonrası\n⇆Dış Cephe Yenileme — Öncesi & Sonrası\nÖne Çıkan Projelerimiz\n## Türkiye’nin Farklı Bölgelerinde Uygulanan Projeler\nKonut, endüstriyel yapı, enerji ve turizm başlıklarında Ocean İnşaat’ın uygulama, koordinasyon ve taşeronluk kapsamında görev aldığı seçili örnekler.\nTüm Projeleri İnceleyin\nTümü\nKonut\nVilla\nTicari Yapı\nEndüstriyel Yapı\nEnerji\nTurizm Yapısı\nKurumsal Yapı\nKonutTamamlandı\n### Konut Projesi — Apartman 01\nApartman İnşaatı Projesi · İstanbul\nÇağdaş cephe çizgileri ve düzenli plan çözümüyle bölgeye modern bir konut kimliği kazandıran apartman projesi.\n- Taşeronluk\n- Uygulama\n- Koordinasyon\nProjeyi İncele →\nKonutTamamlandı\n### Karma Kullanım Konut Projesi\nKonut ve Ticari Karma Yapı · İstanbul\nKentsel dokuya uyumlu düşey vurgulu cephe çözümüyle konut ve ticari kullanımı bir arada barındıran çok katlı yapı projesi.\n- Taşeronluk\n- Uygulama\n- Koordinasyon\nProjeyi İncele →\nEnerjiEndüstriyel YapıTamamlandı\n### Güneş Paneli Projesi\nEnerji Altyapı Projesi (Çatı Üstü GES) · Doğu Anadolu Bölgesi\nEndüstriyel bir tesisin çatısına yerleştirilmiş büyük ölçekli çatı üstü güneş paneli sistemi ve enerji altyapı projesi.\n- Uygulama\n- Ana Yüklenici\nProjeyi İncele →\nEndüstriyel YapıTicari YapıTamamlandı\n### Endüstriyel Üretim Fabrikası Projesi\nEndüstriyel Üretim Tesisi İnşaatı · Doğu Anadolu Bölgesi\nJeneratör ve elektrik panosu üretimine yönelik özel olarak tasarlanmış modern bir endüstriyel yapı projesi.\n- Taşeronluk\n- Uygulama\n- Koordinasyon\nProjeyi İncele →\nKonutTicari YapıUygulama Aşamasında\n### Yüksek Yapı Karma Kullanım Projesi\nKarma Kullanımlı Konut ve Ticari Yüksek Yapı · İstanbul\nKarma kullanım odaklı çok katlı yapının inşaat sürecine ait büyük ölçekli betonarme imalat kareleri.\n- Taşeronluk\n- Uygulama\nProjeyi İncele →\nNeden Ocean İnşaat?\n## Yatırımınızı Güvence Altına Alan On Temel Prensip\nOcean İnşaat, sözleşmenin ilk gününden teslim sonrasına kadar aynı prensiplerle çalışır. Bu tutarlılık, sizin için öngörülebilir bütçe, süre ve kalite anlamına gelir.\n01\n### Şeffaf Proje Yönetimi\nHer fazda düzenli raporlama, açık maliyet takibi ve müşteri ile paylaşılan iş programı.\n02\n### Zamanında Teslim\nİş programına uyum için sahadaki her disiplin haftalık olarak takip edilir.\n03\n### Kaliteli Malzeme Kullanımı\nSözleşme ile teknik şartnamede net şekilde belirtilen marka ve model kalitesi.\n04\n### Uzman Teknik Kadro\nİnşaat mühendisi, mimar ve saha teknisyenlerinden oluşan güçlü ekip.\n05\n### İş Güvenliği Standartları\nYönetmeliklere uygun kişisel koruyucu donanım, eğitim ve saha denetimi.\n06\n### Bütçe Kontrolü\nKalem bazlı bütçe takibi ile öngörülebilir maliyet ve şeffaf raporlama.\n07\n### Detaylı Sözleşme Süreci\nKapsam, süre ve kaliteyi ayrıntılı tanımlayan sözleşmeler.\n08\n### Düzenli Proje Raporlaması\nFotoğraflı haftalık ilerleme raporları ve düzenli müşteri toplantıları.\n09\n### Satış Sonrası Destek\nTeslim sonrası bakım, teknik destek ve garanti kapsamındaki müdahaleler.\n10\n### Mevzuata Uygun Uygulama\nİmar, iş sağlığı ve güvenliği, deprem yönetmeliği ve enerji verimliliği mevzuatlarına tam uyum.\nÇalışma Sürecimiz\n## Görüşmeden Teslime Kadar Adım Adım\nHer proje aynı ölçüde planlanır: keşif, projelendirme, sözleşme, uygulama, kontrol ve destek. Her adımda net çıktı ve raporlama sizin için hazır.\n01\n### İlk Görüşme ve İhtiyaç Analizi\nProjenin amacı, beklentileri ve ölçeği hakkında ilk bilgiler alınır; birlikte çalışılıp çalışılamayacağı konusunda ön değerlendirme yapılır.\n02\n### Yerinde Keşif\nTeknik ekip arsa veya mevcut yapı üzerinde inceleme yapar; zemin, çevre yapı, altyapı ve imar durumu değerlendirilir.\n03\n### Projelendirme ve Fizibilite\nMimari, statik, mekanik ve elektrik disiplinleri birlikte çalışır; farklı senaryolar için fizibilite hazırlanır.\n04\n### Bütçe ve Teklif Hazırlığı\nDetaylı teknik şartname üzerinden bütçe kalemleri çıkarılır ve nihai teklif hazırlanır.\n05\n### Sözleşme ve İş Programı\nKarşılıklı görüşme sonrasında sözleşme imzalanır; iş programı ve kalite planı devreye alınır.\n06\n### İnşaat ve Uygulama\nŞantiye kurulur; hafriyat, kaba yapı, ince işler, tesisat ve cephe işleri iş programına uygun yürütülür.\n07\n### Kalite Kontrol\nHer fazda kalite kontrol denetimleri yapılır; malzeme testleri ve saha kontrolleri raporlanır.\n08\n### Teslim ve Son Kontroller\nYapı, tesisat ve güvenlik testleri yapılır; eksikler kapatılır ve teslim tutanağı hazırlanır.\n09\n### Satış Sonrası Destek\nGaranti süresi boyunca teknik destek sağlanır; periyodik kontroller ve bakım hizmetleri sunulur.\n01\n### İlk Görüşme ve İhtiyaç Analizi\nProjenin amacı, beklentileri ve ölçeği hakkında ilk bilgiler alınır; birlikte çalışılıp çalışılamayacağı konusunda ön değerlendirme yapılır.\n- Proje briefi\n- Kaba bütçe aralığı\n- Ön iş programı\n02\n### Yerinde Keşif\nTeknik ekip arsa veya mevcut yapı üzerinde inceleme yapar; zemin, çevre yapı, altyapı ve imar durumu değerlendirilir.\n- Keşif raporu\n- Fotoğraflı tespit\n- Ölçüm çıktısı\n03\n### Projelendirme ve Fizibilite\nMimari, statik, mekanik ve elektrik disiplinleri birlikte çalışır; farklı senaryolar için fizibilite hazırlanır.\n- Avan proje\n- Kaba metraj\n- Maliyet-değer analizi\n04\n### Bütçe ve Teklif Hazırlığı\nDetaylı teknik şartname üzerinden bütçe kalemleri çıkarılır ve nihai teklif hazırlanır.\n- Detaylı teklif\n- Ödeme planı\n- Alternatif malzeme seçenekleri\n05\n### Sözleşme ve İş Programı\nKarşılıklı görüşme sonrasında sözleşme imzalanır; iş programı ve kalite planı devreye alınır.\n- Sözleşme\n- Ayrıntılı iş programı\n- Kalite planı\n06\n### İnşaat ve Uygulama\nŞantiye kurulur; hafriyat, kaba yapı, ince işler, tesisat ve cephe işleri iş programına uygun yürütülür.\n- Haftalık ilerleme raporu\n- Fotoğraflı takip\n- İş güvenliği raporu\n07\n### Kalite Kontrol\nHer fazda kalite kontrol denetimleri yapılır; malzeme testleri ve saha kontrolleri raporlanır.\n- Kalite raporları\n- Test sonuçları\n- Kontrol tutanakları\n08\n### Teslim ve Son Kontroller\nYapı, tesisat ve güvenlik testleri yapılır; eksikler kapatılır ve teslim tutanağı hazırlanır.\n- Teslim tutanağı\n- İskân dokümanları\n- Kullanım kılavuzları\n09\n### Satış Sonrası Destek\nGaranti süresi boyunca teknik destek sağlanır; periyodik kontroller ve bakım hizmetleri sunulur.\n- Garanti dokümanı\n- Periyodik bakım planı\n- Teknik destek hattı\nKat Karşılığı İnşaat\n## Arsanızı Güvenli ve Değerli Bir Yatırıma Dönüştürün\nKat karşılığı inşaat modeliyle arsa sahipleriyle nakit talebi olmadan çalışıyoruz. Süreç noter onaylı sözleşme ile başlar; ruhsat, inşaat, iskân ve tapu devri firmamız tarafından tek çatı altında yönetilir.\n- Arsa incelemesi ve imar durumu analizi\n- Fizibilite çalışması ve pay dağılım modeli\n- Mimari proje geliştirme\n- Noter onaylı sözleşme\n- Ruhsat ve yasal süreç yönetimi\n- İnşaat uygulaması\n- Anahtar teslim\n- Tapu ve teslim süreci\nArsanızı Değerlendirelim\nSüreci İnceleyin\nKat Karşılığı Süreci\nNoter onaylı sözleşme ile başlar.\nKalite ve İş Güvenliği\n## Standartların Üzerinde, Yönetmeliklere Sadık\nİnşaat sürecinin görünmeyen ama en kritik başlıklarında sıkı standartlar uyguluyor, gerçek sertifikalar ve denetim raporları ile şeffaflığı güvence altına alıyoruz.\n### İş Sağlığı ve Güvenliği\nŞantiye giriş eğitimleri, KKD kullanımı ve saha denetimi ile sıfır ciddi kaza hedefi.\n### Yapı Denetimi\nBağımsız yapı denetim firmaları ile her aşamada kontrol.\n### Malzeme Kalite Kontrolü\nBeton, demir ve yalıtım için partide numune ve karot testleri.\n### Teknik Ekip Denetimi\nŞantiye şefleri ve merkez ekiplerinin çift kontrolü.\n### Deprem Yönetmeliği\nTBDY 2018 kapsamında projelendirme ve uygulama.\n### Çevreye Duyarlı Çalışma\nŞantiyede toz, gürültü ve atık yönetimi yönetmeliklere uygun.\n### Şantiye Düzeni\nMalzeme depolama, ekipman rotasyonu ve saha güvenliği planlaması.\n### Proje Raporlaması\nHaftalık ilerleme, fotoğraf ve maliyet raporu.\nBu alan, firmaya ait güncel sertifikalar, denetim raporları ve teknik belgeler eklenebilecek şekilde düzenlenmiştir. Sadece gerçek ve doğrulanabilir belgeler paylaşılmalıdır.\nMüşteri Yorumları\n## Sürecin Sonunda Kalıcı Bir Güven\nBireysel müşterilerden site yönetimlerine, arsa sahiplerinden kurumsal yatırımcılara farklı taraflarla çalıştık. Onların anlatımıyla Ocean İnşaat deneyimi.\n“Apartman projesinin sürecinde ekiple sık iletişim halinde olduk. Kaba yapıdan teslime kadar iş programı bize açık şekilde paylaşıldı, gecikme yaşamadık.”\nAylin K.\nKonut Sahibi · İstanbul\nİlgili projeyi incele\n01 / 05\nSık Sorulan Sorular\n## Süreç Öncesi Merak Ettikleriniz\nFarklı proje türleri için en çok sorulan sorulara net cevaplar. Aradığınızı bulamazsanız iletişim formundan bize ulaşabilirsiniz.\n-\n01Anahtar teslim inşaat hizmeti neleri kapsar?\nAnahtar teslim inşaat; projelendirme, ruhsat, kaba yapı, ince işler, cephe, tesisatlar ve peyzaj işlerinin tek bir sözleşme altında yürütüldüğü hizmettir. Süreç, iskân ve teslim ile sonlanır.\n-\n02İnşaat maliyeti nasıl hesaplanır?\n-\n03Kat karşılığı inşaat süreci nasıl ilerler?\n-\n04Ücretsiz keşif hizmeti sunuyor musunuz?\n-\n05Proje teslim süresi nasıl belirlenir?\n-\n06Dış cephe mantolama ne kadar sürer?\n-\n07Bina güçlendirme öncesinde hangi analizler yapılır?\n-\n08Tadilat sırasında bina kullanılabilir mi?\n-\n09Malzeme seçimlerini müşteri yapabilir mi?\n-\n10İnşaat sürecini nasıl takip edebilirim?\n-\n11Hangi şehirlerde hizmet veriyorsunuz?\n-\n12Teklif almak için hangi bilgileri iletmeliyim?\nBlog\n## İnşaat, Mimari ve Süreç Rehberleri\nKentsel dönüşümden kat karşılığı sözleşmelerine, mantolamadan bina güçlendirmeye kadar sizi bilgilendiren güncel içerikler.\nTüm Yazılar\nİnşaat Rehberi·14 Nisan 2025·8 dk\n### Anahtar Teslim İnşaat Nedir? Kapsamı ve Süreci\nAnahtar teslim inşaat; projeden ruhsata, kaba yapıdan teslime kadar tüm sürecin tek çatı altında yönetildiği bir modeldir.\nKat Karşılığı·22 Mart 2025·10 dk\n### Kat Karşılığı İnşaat Sözleşmesinde Nelere Dikkat Edilmeli?\nKat karşılığı inşaat sözleşmesi, arsa sahibi ile müteahhidin karşılıklı yükümlülüklerini belirleyen kritik bir belgedir.\nKentsel Dönüşüm·11 Şubat 2025·9 dk\n### Kentsel Dönüşüm Süreci Nasıl İşler?\nRiskli yapı tespitinden yeni binanın teslimine kadar kentsel dönüşüm sürecinin tüm aşamaları.\nİletişim\n## Projenizi Birlikte Hayata Geçirelim\nİnşaat, renovasyon, dış cephe veya kat karşılığı projeniz için bizimle iletişime geçin. Teknik ekibimiz ihtiyaçlarınızı değerlendirerek size özel bir çalışma planı oluştursun.\nÜcretsiz Keşif Talep Et\nWhatsApp'tan İletişime Geç"
+  },
+  "iletisim": {
+   "slug": "iletisim",
+   "title": "Projenizi Konuşalım",
+   "metaTitle": "İletişim",
+   "metaDescription": "Ocean İnşaat ile iletişime geçin. Telefon, e-posta, WhatsApp ve online form aracılığıyla ücretsiz teklif ve keşif talep edin.",
+   "text": "# Projenizi Konuşalım\nSorunuza en kısa sürede yanıt verebilmemiz için lütfen aşağıdaki formu doldurun veya doğrudan telefon ile bize ulaşın.\nBize Ulaşın\n## İletişim Kanallarımız\nTelefon\n+90 532 766 06 83\nE-Posta\ninfo@oceaninsaat.com.tr\nFaaliyet Bölgesi\nİstanbul / Türkiye\nÇalışma Saatleri\nPazartesi – Cuma: 09:00 – 18:30\nCumartesi: 10:00 – 15:00\nPazar: Kapalı\nWhatsApp ile İletişime Geç\nTeklif Formu\n## Projenizin Detaylarını Paylaşın\nForm yükleniyor…"
+  },
+  "kat-karsiligi": {
+   "slug": "kat-karsiligi",
+   "title": "Arsanızı Güvenli ve Değerli Bir Yatırıma Dönüştürün",
+   "metaTitle": "Kat Karşılığı İnşaat",
+   "metaDescription": "Arsanızı Ocean İnşaat ile kat karşılığı modelinde değerlendirin. Şeffaf pay dağılımı, noter onaylı sözleşme ve anahtar teslim güvencesi.",
+   "text": "# Arsanızı Güvenli ve Değerli Bir Yatırıma Dönüştürün\nŞeffaf pay dağılımı, noter onaylı sözleşme ve anahtar teslim güvencesi ile kat karşılığı süreci Ocean İnşaat çatısı altında.\nKat Karşılığı Süreci\n## Doğru Ortakla Riski Azaltın, Değeri Artırın\nOcean İnşaat, arsanızın maksimum değerine ulaşması için imar hakkını en verimli şekilde kullanır. Sürecin her aşaması sizin için tanımlı, izlenebilir ve yazılıdır.\n### Arsa ve İmar Analizi\nİmar durumu, çekme mesafeleri ve TAKS/KAKS analizleri.\n### Fizibilite Çalışması\nPay dağılım simülasyonu ve maliyet-değer karşılaştırması.\n### Noter Onaylı Sözleşme\nTüm süreç hukuki güvence altında ilerler.\n### Kaba Yapı ve İnce İşler\nDeprem yönetmeliğine uygun kaliteli uygulama.\n### Anahtar Teslim\nİskân ve tapu süreçleri dahil eksiksiz teslim.\n### Satış Sonrası Destek\nGaranti kapsamında teknik ve idari destek.\nSüreç Adımları\n## Görüşmeden Tapu Devrine\n-\n01\nÖn Görüşme\nArsa sahibinin beklentileri ve arsanın konumu değerlendirilir.\n-\n02\nİmar İncelemesi\nİmar durumu, çekme mesafeleri, TAKS/KAKS analizi yapılır.\n-\n03\nFizibilite\nBölgesel pazar değerleri, satış potansiyeli ve pay dağılım simülasyonu.\n-\n04\nSözleşme\nPay oranı, teslim süresi ve teknik şartname noter huzurunda imzalanır.\n-\n05\nProjelendirme\nMimari ve mühendislik projeleri sözleşmede belirlenen kaliteye göre üretilir.\n-\n06\nRuhsat ve Kaba Yapı\nBelediye onayları alınır, temel ve iskelet imalatı başlar.\n-\n07\nİnce İşler\nCephe, tesisat, seramik, boya ve doğrama işleri tamamlanır.\n-\n08\nİskân ve Tapu\nİskân belgesi alınır, arsa sahibi ve müteahhit payları tapuya işlenir.\nNeden Ocean İnşaat?\n## Arsanız İçin En İyi Çözüm Ortağı\n- Arsa sahibinden nakit talep edilmez\n- Noter onaylı sözleşme ile hukuki güvence\n- Şeffaf pay dağılımı ve daire seçim planı\n- İmar hakkının en verimli şekilde kullanılması\n- Anahtar teslim ve tapulu daire güvencesi\nUygun Arsalar\n## Kat Karşılığı İçin Doğru Parseller\n- ·Merkez ve alt bölgelerdeki müsait imarlı arsalar\n- ·Eski yapıların bulunduğu dönüşüm alanları\n- ·Ortak arsa sahipliği bulunan parseller\nArsanızı Değerlendirelim\nKat Karşılığı\n## Arsanızın Değerini Birlikte Ortaya Çıkaralım\nİnşaat, renovasyon, dış cephe veya kat karşılığı projeniz için bizimle iletişime geçin. Teknik ekibimiz ihtiyaçlarınızı değerlendirerek size özel bir çalışma planı oluştursun.\nÜcretsiz Keşif Talep Et\nWhatsApp'tan İletişime Geç"
+  },
+  "kullanim-kosullari": {
+   "slug": "kullanim-kosullari",
+   "title": "Kullanım Koşulları",
+   "metaTitle": "Kullanım Koşulları",
+   "metaDescription": "Ocean İnşaat internet sitesinin kullanımına ilişkin koşullar.",
+   "text": "# Kullanım Koşulları\nSitemizi ziyaret ederek işbu kullanım koşullarını kabul etmiş sayılırsınız.\n## 1. Kapsam\nİşbu kullanım koşulları, siteyi ziyaret eden tüm kullanıcılar için geçerlidir. Site kullanımıyla bu koşulları kabul etmiş sayılırsınız.\n## 2. Fikri Mülkiyet\nSite içeriği, tasarımı, logoları, metinleri ve görselleri Ocean İnşaat'a aittir. İzinsiz kopyalanamaz, çoğaltılamaz veya dağıtılamaz.\n## 3. Sorumluluk Reddi\nOcean İnşaat, site içeriğinin doğruluğunu sağlamak için çaba göstermektedir. Ancak zamanla değişebilecek bilgiler için lütfen doğrudan iletişim kanallarımızı kullanın.\n## 4. Uygulanacak Hukuk\nİşbu kullanım koşulları Türkiye Cumhuriyeti yasalarına tabidir. İhtilaflarda İstanbul Mahkemeleri ve İcra Daireleri yetkilidir.\nBu metin genel bilgilendirme amaçlıdır. Yasal bağlayıcı bir metin için lütfen doğrudan Ocean İnşaat ile iletişime geçin."
+  },
+  "kurumsal": {
+   "slug": "kurumsal",
+   "title": "Sağlam Yapılara Adanmış Bir Ekip",
+   "metaTitle": "Kurumsal",
+   "metaDescription": "Ocean İnşaat kurumsal kimliği, misyon ve vizyonu, kalite politikası, teknik kapasitesi ve şirket tarihi hakkında bilgi alın.",
+   "text": "# Sağlam Yapılara Adanmış Bir Ekip\nOcean İnşaat, mühendislik disiplinlerini teknik yetkinlikle birleştirerek her ölçekte projeyi güvenle üretir.\nHakkımızda\n## Ocean İnşaat: Marmara Bölgesi’nde güvenilir yapı ortağı.\nOcean İnşaat; konut, enerji ve turizm projelerinde taşeronluk, aracılık, uygulama ve koordinasyon hizmetleri sunar. Merkez ekibimiz mühendis, mimar ve saha teknisyenlerinden oluşur; şantiye organizasyonları deneyimli inşaat mühendisleri tarafından yürütülür.\nYapıya, çevreye, çalışana ve iş ortağına karşı sorumluluğumuz her kararımızda ölçüttür. Şeffaf sözleşme, düzenli raporlama, zamanında teslim ve satış sonrası destek Ocean İnşaat kültürünün ayrılmaz parçalarıdır.\nMisyonumuz\nYatırımcılarımıza güvenle inşa edilmiş, uzun ömürlü ve enerji verimli yapılar teslim ederek Türkiye’nin yapı standartlarının yükselmesine katkı sağlamak.\nVizyonumuz\nKonut, enerji ve turizm projelerinde tercih edilen; taşeronluk, aracılık ve koordinasyon başlıklarında referans gösterilen bir çözüm ortağı olmak.\nDeğerlerimiz\nGüven · Kalite · Şeffaflık · Sorumluluk · Yenilikçilik · Sürdürülebilirlik · Zamanında Teslim · Müşteri Memnuniyeti\nYönetim İlkelerimiz\n## Kalite, Çevre ve İş Güvenliği Yaklaşımımız\nKalite Politikası\nHer fazda malzeme, işçilik ve uygulama kalitesini bağımsız kontrol raporları ile belgeleyen bir yaklaşım benimseriz. Süreç boyunca gelen tüm geri bildirimler kalite sistemimizi geliştirmek için kullanılır.\nÇevresel Sorumluluk\nŞantiye çevresinde toz, gürültü ve atık yönetimini yönetmeliklere uygun şekilde yürütür; enerji verimli malzemeleri önceliklendiririz.\nİş Güvenliği\nİş sağlığı ve güvenliği kültürünü tüm ekiplerimize benimseterek sıfır ölümcül kaza hedefiyle çalışırız.\nTeknik Kapasitemiz\n## Modern Yazılımlar ve Deneyimli Ekipler\nBIM tabanlı süreç, ERP entegre satın alma ve şantiye kamera altyapıları ile her aşamayı ölçülebilir kılıyoruz.\nBIM tabanlı projelendirme\nZemin ve karot test koordinasyonu\nİş programı yazılımları ile takip\nERP entegre satın alma\nŞantiye kamera sistemleri\nEnerji simülasyonu ve BEP-TR\nEkip Yapımız\n## Deneyimli Disiplinler Aynı Çatı Altında\nİnşaat Mühendisliği\nİnşaat Mühendisleri\nŞantiye ve Proje Yönetimi\nMimarlık\nMimarlar\nKonsept ve Uygulama Projeleri\nStatik Tasarım\nStatik Mühendisleri\nDeprem Yönetmeliği Uyumu\nMekanik Tesisat\nMekanik Mühendisleri\nIsıtma, Soğutma ve Havalandırma\nElektrik Tesisat\nElektrik Mühendisleri\nKuvvetli ve Zayıf Akım\nİş Sağlığı ve Güvenliği\nİş Güvenliği Uzmanları\nŞantiye İSG Denetimi\nPeyzaj Mimarlığı\nPeyzaj Mimarları\nDış Alan ve Peyzaj Tasarımı\nKalite Kontrol\nKalite Kontrol Uzmanları\nMalzeme ve Uygulama Denetimi\n0+\nYıllık Sektör Deneyimi\n0+\nTamamlanan Proje\n0+\nİş Ortağı\n0+\nUzman Ekip Üyesi\nŞirket Zaman Çizelgesi\n## Ocean İnşaat’ın Yolculuğu\n-\n2014\nOcean İnşaat Kuruldu\nKonut projeleriyle Marmara Bölgesi’nde faaliyete başladı.\n-\n2016\nKat Karşılığı Projeler\nArsa sahipleri ile kat karşılığı işbirlikleri hız kazandı.\n-\n2018\nİlk Endüstriyel Yapı\nİlk endüstriyel üretim tesisi taşeron uygulama kapsamında tamamlandı.\n-\n2020\nKentsel Dönüşüm\nRiskli yapı raporlu projelerde uçtan uca hizmet başladı.\n-\n2022\nEnerji Projeleri\nÇatı üstü güneş enerjisi santrali projelerinde uygulama deneyimi kazanıldı.\n-\n2024\nTurizm Yapıları\nTurizm ve sosyal tesis projelerinde uygulama ve koordinasyon kapsamı genişledi.\nKurumsal\n## Kurumsal İşbirlikleri İçin Bize Ulaşın\nİnşaat, renovasyon, dış cephe veya kat karşılığı projeniz için bizimle iletişime geçin. Teknik ekibimiz ihtiyaçlarınızı değerlendirerek size özel bir çalışma planı oluştursun.\nÜcretsiz Keşif Talep Et\nWhatsApp'tan İletişime Geç"
+  },
+  "kvkk-aydinlatma-metni": {
+   "slug": "kvkk-aydinlatma-metni",
+   "title": "KVKK Aydınlatma Metni",
+   "metaTitle": "KVKK Aydınlatma Metni",
+   "metaDescription": "Ocean İnşaat KVKK aydınlatma metni: Kişisel verilerin işlenmesi hakkında bilgilendirme.",
+   "text": "# KVKK Aydınlatma Metni\n6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamında hazırlanan aydınlatma metnimiz.\n## 1. Veri Sorumlusu\n6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında Ocean İnşaat Taahhüt ve Ticaret veri sorumlusu sıfatıyla hareket etmektedir.\n## 2. İşlenen Kişisel Veri Kategorileri\nKimlik, iletişim, müşteri işlem, pazarlama, işlem güvenliği ve talep/şikayet bilgileri gibi kategoriler kapsamındaki kişisel veriler işlenmektedir.\n## 3. Kişisel Verilerin İşlenme Amaçları\nVerileriniz; hizmet sunumu, sözleşme süreçleri, iletişim, yasal yükümlülüklerin yerine getirilmesi ve iş sürekliliğinin sağlanması amaçlarıyla işlenir.\n## 4. Aktarım\nKişisel veriler; yasal zorunluluk hâlinde yetkili kamu kurumlarına, hizmetin sunulması için gerekli olduğunda tedarikçilere ve iş ortaklarına aktarılabilir.\n## 5. Haklarınız\nKVKK'nın 11. maddesi kapsamında; verilerin işlenip işlenmediğini öğrenme, işlenmişse bilgi talep etme, silinmesini veya yok edilmesini isteme gibi haklara sahipsiniz.\n## 6. Başvuru\nHaklarınızı kullanmak için info@oceaninsaat.com.tr adresine yazılı olarak başvurabilirsiniz.\nBu metin genel bilgilendirme amaçlıdır. Yasal bağlayıcı bir metin için lütfen doğrudan Ocean İnşaat ile iletişime geçin."
+  },
+  "projeler": {
+   "slug": "projeler",
+   "title": "Türkiye'nin Dört Bir Yanında Yükselen Yapılar",
+   "metaTitle": "Projelerimiz",
+   "metaDescription": "Ocean İnşaat tarafından Türkiye genelinde tamamlanan konut, villa, ticari, endüstriyel, enerji, turizm ve kurumsal projelerin listesi.",
+   "text": "# Türkiye'nin Dört Bir Yanında Yükselen Yapılar\nKonut, villa, ticari yapı, endüstriyel tesis, enerji ve turizm başlıklarında Ocean İnşaat portföyünü keşfedin.\nTümü9\nKonut3\nVilla0\nTicari Yapı4\nEndüstriyel Yapı3\nEnerji1\nTurizm Yapısı1\nKurumsal Yapı1\nKonut\n## Konut Projesi — Apartman 01\nApartman İnşaatı Projesi · İstanbul\nÇağdaş cephe çizgileri ve düzenli plan çözümüyle bölgeye modern bir konut kimliği kazandıran apartman projesi.\n- Taşeronluk\n- Uygulama\n- Koordinasyon\nProjeyi İncele →\nKonut\n## Karma Kullanım Konut Projesi\nKonut ve Ticari Karma Yapı · İstanbul\nKentsel dokuya uyumlu düşey vurgulu cephe çözümüyle konut ve ticari kullanımı bir arada barındıran çok katlı yapı projesi.\n- Taşeronluk\n- Uygulama\n- Koordinasyon\nProjeyi İncele →\nEnerjiEndüstriyel Yapı\n## Güneş Paneli Projesi\nEnerji Altyapı Projesi (Çatı Üstü GES) · Doğu Anadolu Bölgesi\nEndüstriyel bir tesisin çatısına yerleştirilmiş büyük ölçekli çatı üstü güneş paneli sistemi ve enerji altyapı projesi.\n- Uygulama\n- Ana Yüklenici\nProjeyi İncele →\nEndüstriyel YapıTicari Yapı\n## Endüstriyel Üretim Fabrikası Projesi\nEndüstriyel Üretim Tesisi İnşaatı · Doğu Anadolu Bölgesi\nJeneratör ve elektrik panosu üretimine yönelik özel olarak tasarlanmış modern bir endüstriyel yapı projesi.\n- Taşeronluk\n- Uygulama\n- Koordinasyon\nProjeyi İncele →\nKonutTicari Yapı\n## Yüksek Yapı Karma Kullanım Projesi\nKarma Kullanımlı Konut ve Ticari Yüksek Yapı · İstanbul\nKarma kullanım odaklı çok katlı yapının inşaat sürecine ait büyük ölçekli betonarme imalat kareleri.\n- Taşeronluk\n- Uygulama\nProjeyi İncele →\nEndüstriyel Yapı\n## CNC Tesisi\nHassas Talaşlı İmalat Üretim Tesisi · Ege Bölgesi\nCNC üretim faaliyetine yönelik özel olarak inşa edilmiş, yüksek tavanlı ve büyük açıklıklı endüstriyel üretim alanı.\n- Taşeronluk\n- Uygulama\nProjeyi İncele →\nTicari Yapı\n## Alışveriş Merkezi Dijital Proje\nAlışveriş Merkezi İnşaat Projesi · Doğu Anadolu Bölgesi\nModern iç mekân kurgusu, geniş ortak alanları ve entegre otopark çözümüyle planlanmış büyük ölçekli alışveriş merkezi dijital proje çalışması.\n- Taşeronluk\n- Koordinasyon\n- Proje Desteği\nProjeyi İncele →\nKurumsal YapıTicari Yapı\n## Kurumsal Hizmet Binası Projesi\nKurumsal Hizmet Binası İnşaatı · Marmara Bölgesi\nKonferans salonu ve iç mekân uygulamalarıyla öne çıkan çok fonksiyonlu kurumsal hizmet binası projesi.\n- Taşeronluk\n- Uygulama\n- Koordinasyon\nProjeyi İncele →\nTurizm Yapısı\n## Kayak ve Sosyal Tesis Turizm Projesi\nKayak ve Sosyal Tesis Alanı · Karadeniz Bölgesi\nYayla dokusuna uyumlu; telesiyej hattı, konaklama ve karşılama alanlarını bir arada barındıran kayak ve sosyal tesis alanı.\n- Uygulama\n- Koordinasyon\n- Proje Desteği\n- Ana Yüklenici\nProjeyi İncele →\nReferans\n## Sıradaki Referans Sizin Projeniz Olsun\nİnşaat, renovasyon, dış cephe veya kat karşılığı projeniz için bizimle iletişime geçin. Teknik ekibimiz ihtiyaçlarınızı değerlendirerek size özel bir çalışma planı oluştursun.\nÜcretsiz Keşif Talep Et\nWhatsApp'tan İletişime Geç"
+  },
+  "surec": {
+   "slug": "surec",
+   "title": "Her Projede Aynı Disiplin",
+   "metaTitle": "Çalışma Süreci",
+   "metaDescription": "Ocean İnşaat çalışma süreci: keşif, projelendirme, sözleşme, uygulama, kalite kontrol ve satış sonrası destek başlıklarında adım adım rehber.",
+   "text": "# Her Projede Aynı Disiplin\nGörüşmeden teslime kadar sürecin her aşaması net tanımlı çıktılara ve raporlamalara sahiptir.\n9 Adımda Ocean İnşaat\n## Doğru Süreç, Öngörülebilir Sonuç\nHer fazın öncesinde ne olacağı ve sonucunda hangi çıktının teslim edileceği bellidir.\n-\nAdım 01\n01\n### İlk Görüşme ve İhtiyaç Analizi\nProjenin amacı, beklentileri ve ölçeği hakkında ilk bilgiler alınır; birlikte çalışılıp çalışılamayacağı konusunda ön değerlendirme yapılır.\nÇıktılar\n- Proje briefi\n- Kaba bütçe aralığı\n- Ön iş programı\n-\nAdım 02\n02\n### Yerinde Keşif\nTeknik ekip arsa veya mevcut yapı üzerinde inceleme yapar; zemin, çevre yapı, altyapı ve imar durumu değerlendirilir.\nÇıktılar\n- Keşif raporu\n- Fotoğraflı tespit\n- Ölçüm çıktısı\n-\nAdım 03\n03\n### Projelendirme ve Fizibilite\nMimari, statik, mekanik ve elektrik disiplinleri birlikte çalışır; farklı senaryolar için fizibilite hazırlanır.\nÇıktılar\n- Avan proje\n- Kaba metraj\n- Maliyet-değer analizi\n-\nAdım 04\n04\n### Bütçe ve Teklif Hazırlığı\nDetaylı teknik şartname üzerinden bütçe kalemleri çıkarılır ve nihai teklif hazırlanır.\nÇıktılar\n- Detaylı teklif\n- Ödeme planı\n- Alternatif malzeme seçenekleri\n-\nAdım 05\n05\n### Sözleşme ve İş Programı\nKarşılıklı görüşme sonrasında sözleşme imzalanır; iş programı ve kalite planı devreye alınır.\nÇıktılar\n- Sözleşme\n- Ayrıntılı iş programı\n- Kalite planı\n-\nAdım 06\n06\n### İnşaat ve Uygulama\nŞantiye kurulur; hafriyat, kaba yapı, ince işler, tesisat ve cephe işleri iş programına uygun yürütülür.\nÇıktılar\n- Haftalık ilerleme raporu\n- Fotoğraflı takip\n- İş güvenliği raporu\n-\nAdım 07\n07\n### Kalite Kontrol\nHer fazda kalite kontrol denetimleri yapılır; malzeme testleri ve saha kontrolleri raporlanır.\nÇıktılar\n- Kalite raporları\n- Test sonuçları\n- Kontrol tutanakları\n-\nAdım 08\n08\n### Teslim ve Son Kontroller\nYapı, tesisat ve güvenlik testleri yapılır; eksikler kapatılır ve teslim tutanağı hazırlanır.\nÇıktılar\n- Teslim tutanağı\n- İskân dokümanları\n- Kullanım kılavuzları\n-\nAdım 09\n09\n### Satış Sonrası Destek\nGaranti süresi boyunca teknik destek sağlanır; periyodik kontroller ve bakım hizmetleri sunulur.\nÇıktılar\n- Garanti dokümanı\n- Periyodik bakım planı\n- Teknik destek hattı\nSüreç\n## Projenizin Süreç Planını Birlikte Oluşturalım\nİnşaat, renovasyon, dış cephe veya kat karşılığı projeniz için bizimle iletişime geçin. Teknik ekibimiz ihtiyaçlarınızı değerlendirerek size özel bir çalışma planı oluştursun.\nÜcretsiz Keşif Talep Et\nWhatsApp'tan İletişime Geç"
+  },
+  "teklif-formu": {
+   "slug": "teklif-formu",
+   "title": "Teklif ve Bilgilendirme Formu",
+   "metaTitle": "Teklif ve Bilgilendirme Formu",
+   "metaDescription": "Ocean İnşaat teklif ve bilgilendirme formunu doldurarak projeniz için ücretsiz keşif talep edin.",
+   "text": "# Teklif ve Bilgilendirme Formu\nProjenizin detaylarını iletin, teknik ekibimiz sizinle iletişime geçsin.\nForm\n## Projenizin Detaylarını Paylaşın\nForm yükleniyor…"
+  }
+ }
+}

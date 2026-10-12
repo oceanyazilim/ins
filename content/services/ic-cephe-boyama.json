@@ -1,0 +1,100 @@
+{
+  "slug": "ic-cephe-boyama",
+  "title": "İç Cephe Boyama",
+  "category": "boya-yuzey",
+  "metaTitle": "İç Cephe Boyama: Yüzey, Malzeme ve Uygulama Tekniği",
+  "metaDescription": "İç cephe boyamada yüzey hazırlığı, astar ve boya türü seçimi nasıl yapılır? Konut, ofis ve iş yeri iç mekanları için uygulama adımlarını inceleyin.",
+  "tagline": "Duvar ve tavan yüzeylerini mekanın kullanımına uygun boya sistemiyle, hazırlıktan son kata kadar planlı biçimde yeniliyoruz.",
+  "overview": "İç cephe boyama; yüzeyin incelenmesi, onarımı, astarlanması ve mekana uygun boya türünün uygulanmasından oluşan bütünlüklü bir iştir. Konutların yanında ofis, mağaza ve iş yeri iç mekanlarında da aynı titizlikle yürütülür.",
+  "intro": "İç cephe boyama, yalnızca duvara renk sürmekten ibaret değildir. Boyanın nasıl görüneceğini ve ne kadar dayanacağını büyük ölçüde altındaki yüzey belirler: çatlak, kabarma, nem izi ya da eski boyanın tozuması giderilmeden yapılan uygulama kısa sürede kusurlarını gösterir. Bu nedenle işe her mekanda yüzeyin durumunu değerlendirerek başlıyor; onarım, zımpara, astar ve son kat sıralamasını bu değerlendirmeye göre kuruyoruz.\n\nSancaktepe merkezli ekibimiz Çekmeköy, Ümraniye, Kadıköy ve Üsküdar'da daire ve müstakil evlerin yanı sıra ofis, muayenehane, mağaza ve ortak kullanım alanlarının iç cephe boyamasını üstleniyor. Daire bazında hazır paket arayanlar için ayrı bir sayfamız bulunuyor; bu sayfada ise yüzey türleri, malzeme seçimi ve uygulama tekniği üzerinde duruyoruz.",
+  "scope": [
+    "Duvar ve tavan yüzeylerinin boyanması",
+    "Çatlak, delik ve kabarmaların onarımı",
+    "Macun, zımpara ve astar uygulaması",
+    "Mutfak, banyo gibi nemli hacimlerde uygun boya sistemi",
+    "Ofis, mağaza ve iş yeri iç mekan boyaması",
+    "Merdiven boşluğu, koridor ve ortak alan boyaması",
+    "Ahşap kapı, pervaz ve süpürgeliklerin boyanması",
+    "Eşya, zemin ve doğramaların korunması, iş sonu temizlik"
+  ],
+  "steps": [
+    {
+      "title": "Yüzey incelemesi",
+      "desc": "Duvar ve tavanlarda çatlak, nem, kabarma ve eski boyanın tutunma durumu kontrol edilir; kapsam bu tespitlere göre belirlenir."
+    },
+    {
+      "title": "Koruma ve hazırlık",
+      "desc": "Eşyalar, zemin, priz ve doğramalar örtülür ve bantlanır; sökülebilir aksesuarlar yerinden alınır."
+    },
+    {
+      "title": "Onarım ve macun",
+      "desc": "Çatlaklar açılarak doldurulur, bozuk bölgeler macunlanır ve yüzey zımparayla düzeltilir."
+    },
+    {
+      "title": "Astar",
+      "desc": "Yüzeyin emiciliğine ve mevcut boyanın türüne uygun astar uygulanarak son katın eşit tutunması sağlanır."
+    },
+    {
+      "title": "Son kat uygulaması",
+      "desc": "Seçilen boya rulo ve fırçayla, köşe ve birleşimler kesilerek uygulanır. Kat sayısı yüzeye ve renk geçişine göre belirlenir."
+    },
+    {
+      "title": "Kontrol ve teslim",
+      "desc": "Gün ışığında ve yapay ışıkta rötuş kontrolü yapılır, koruma malzemeleri toplanır ve mekan temiz teslim edilir."
+    }
+  ],
+  "materials": [
+    "Su bazlı, silinebilir iç cephe boyaları (mat, ipek mat, yarı mat)",
+    "Tavanlar için nefes alabilen mat tavan boyaları",
+    "Emiciliği dengeleyen ve tutunmayı artıran astarlar",
+    "İç cephe macunu ve çatlak dolgu malzemeleri",
+    "Nemli hacimler için küf oluşumuna dirençli boya sistemleri",
+    "Ahşap ve metal yüzeyler için su bazlı veya sentetik boyalar"
+  ],
+  "benefits": [
+    "Yüzey kusurları giderildiği için boya daha düzgün ve homojen görünür",
+    "Mekanın kullanımına uygun boya seçimiyle silinebilirlik ve dayanım artar",
+    "Koruma ve temizlik baştan planlandığı için eşya ve zeminlerin zarar görme riski azalır",
+    "Ofis ve iş yerlerinde çalışma düzenini gözeten bir uygulama planı yapılabilir",
+    "Kapsam önceden netleştiği için iş sırasında ortaya çıkan sürpriz kalemler azalır"
+  ],
+  "projectTypes": [
+    "Daire ve müstakil konut iç mekanları",
+    "Ofis, büro ve toplantı alanları",
+    "Mağaza, muayenehane ve hizmet işletmeleri",
+    "Apartman merdiven boşlukları ve ortak alanlar"
+  ],
+  "faqs": [
+    {
+      "q": "İç cephe boyama ile ev boyama paketleri arasındaki fark nedir?",
+      "a": "Ev boyama paketleri, standart dairelerin toplu boyanmasına yönelik hazır tekliflerdir; ilan edilen paketler 1+1 daire için 25.000 TL, 2+1 daire için 30.000 TL ve 3+1 daire için 35.000 TL'dir. İç cephe boyama hizmeti ise ofis, mağaza ya da standart dışı konutlar gibi kapsamı keşifle belirlenen işleri de içerir. Paketlerin ayrıntısı Boya Fiyatları sayfasında yer alır."
+    },
+    {
+      "q": "Hangi odaya hangi boya türü tercih edilmeli?",
+      "a": "Salon ve yatak odalarında mat ya da ipek mat su bazlı boyalar yaygın olarak tercih edilir. Koridor, çocuk odası ve iş yeri gibi sık temas gören alanlarda silinebilirliği yüksek boyalar; mutfak ve banyoda ise neme ve küfe dirençli sistemler daha uygundur. Kesin seçim, yüzeyin durumu ve beklentiniz dikkate alınarak yapılır."
+    },
+    {
+      "q": "Boya öncesinde astar şart mı?",
+      "a": "Yeni sıvanmış, macunlanmış, tozuyan ya da emiciliği yüksek yüzeylerde astar atlanırsa boya dalgalı kurur ve tutunma zayıflar. Sağlam ve aynı tür boyayla kaplı yüzeylerde astar ihtiyacı daha sınırlı olabilir. Karar yüzey incelemesinden sonra verilir."
+    },
+    {
+      "q": "Ofis veya iş yeri boyanırken çalışmaya ara vermek gerekir mi?",
+      "a": "Bu, mekanın büyüklüğüne ve kullanım yoğunluğuna bağlıdır. Uygulama bölümlere ayrılarak ya da mesai dışı saatlere kaydırılarak planlanabilir; uygun yöntem keşif sırasında birlikte belirlenir."
+    },
+    {
+      "q": "İç cephe boyama ne kadar sürer?",
+      "a": "Süre; alanın büyüklüğüne, onarım ihtiyacına, renk değişiminin derecesine ve mekanın boş ya da eşyalı olmasına göre değişir. Net süre, yüzey değerlendirmesi yapıldıktan sonra teklifle birlikte paylaşılır."
+    },
+    {
+      "q": "Koyu renkten açık renge geçmek mümkün mü?",
+      "a": "Mümkündür, ancak örtücülüğün sağlanması için uygun astar ve yeterli sayıda kat gerekir. Kat sayısı mevcut renge ve seçilen boyanın örtücülüğüne göre uygulama öncesinde belirlenir."
+    }
+  ],
+  "body": "## Boyanın kalitesini yüzey belirler\n\nİç cephede karşılaşılan sorunların çoğu boyadan değil, altındaki zeminden kaynaklanır. Uygulama öncesinde şu noktalara bakılır:\n\n- Emicilik: Yeni alçı sıva ve macun boyayı hızla çeker; astarsız uygulamada ton farkı ve dalgalanma oluşur.\n- Eski boyanın türü: Yağlı ya da parlak boyanın üzerine doğrudan su bazlı boya sürülürse tutunma zayıf kalır; zımpara ve geçiş astarı gerekir.\n- Nem ve tuzlanma: Nem kaynağı giderilmeden yapılan boya kısa sürede kabarır. Önce kaynak bulunmalı, gerekirse [sıhhi tesisat](/hizmetler/sihhi-tesisat) kontrolü yapılmalıdır.\n- Çatlak ve boşluklar: Kılcal çatlaklar ile sıva ayrışmaları farklı yöntemlerle onarılır; kapsamlı bozulmalarda [duvar onarımı](/hizmetler/duvar-onarimi) ayrı bir iş kalemi olarak planlanır.\n\n## Mekana göre boya ve parlaklık seçimi\n\nMat boyalar yüzey kusurlarını daha az gösterir ve dinlendirici bir görünüm verir; buna karşılık ipek mat ve yarı mat boyalar daha kolay silinir. Yoğun kullanılan koridorlarda, çocuk odalarında ve müşteri ağırlayan iş yerlerinde silinebilirlik öne çıkar. Tavanlarda ışığı yansıtmayan mat tavan boyaları tercih edilir. Mutfak ve banyo gibi buharın yoğun olduğu hacimlerde neme dirençli sistemler kullanılır.\n\nRenk kararını yalnızca kartela üzerinden vermek yanıltıcı olabilir. Aynı ton, kuzeye bakan bir odada daha soğuk, güneş alan bir salonda daha sıcak görünür. Mümkünse duvarda küçük bir deneme alanı açılması kararı kolaylaştırır.\n\n## Ofis ve iş yerlerinde uygulama\n\nTicari mekanlarda boya işinin kendisi kadar iş akışının korunması da önemlidir. Uygulama; bölümlere ayırma, mesai dışı çalışma ve düşük kokulu su bazlı ürünlerin tercih edilmesi gibi yöntemlerle planlanabilir. Bilgisayar, arşiv ve vitrin gibi hassas alanların korunması keşifte ayrıca ele alınır. Asma tavan, bölme duvar ya da aydınlatma değişikliği düşünülüyorsa boya bu işlerin ardından yapılmalıdır.\n\n## Sık yapılan hatalar\n\n- Eski boyadaki tozumayı ve kabarmayı temizlemeden üzerine boya atmak\n- Macun tam kurumadan zımpara ve boyaya geçmek\n- Astarı gereksiz görüp atlamak\n- Boyayı aşırı inceltmek; bu, örtücülüğü düşürür\n- Katlar arasında üreticinin önerdiği bekleme süresine uymamak\n\nStandart bir dairenin tamamını boyatmak istiyorsanız [ev boyama](/ev-boyama) paketlerini inceleyebilirsiniz; 1+1 daire 25.000 TL, 2+1 daire 30.000 TL, 3+1 daire 35.000 TL olarak ilan edilmiştir ve ayrıntılar [boya fiyatları](/boya-fiyatlari) sayfasındadır. Ofis, mağaza veya farklı kapsamdaki işler için yüzey değerlendirmesinin ardından teklif hazırlanır; talebinizi [teklif al](/teklif-al) sayfasından iletebilirsiniz.",
+  "related": [
+    "/ev-boyama",
+    "/hizmetler/boya-badana",
+    "/hizmetler/duvar-onarimi",
+    "/hizmetler/dekoratif-boya"
+  ]
+}

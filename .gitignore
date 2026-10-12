@@ -1,0 +1,17 @@
+node_modules
+.next
+out
+.env
+.env.local
+.data
+storage/*
+!storage/.gitkeep
+test-results
+playwright-report
+*.tsbuildinfo
+next-env.d.ts
+.next-dev.log
+.shots
+.data
+.next-start.log
+.next-build.log
