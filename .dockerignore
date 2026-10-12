@@ -2,7 +2,6 @@ node_modules
 .next
 .git
 .data
-.env
 .env.local
 storage
 test-results
